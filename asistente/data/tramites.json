@@ -1,0 +1,359 @@
+[
+  {
+    "id": "ficha_socioeconomica",
+    "nombre_oficial": "Registro de Ficha Socioeconómica",
+    "categoria": "Bienestar Universitario",
+    "objetivo": "Registrar información personal, académica, socioeconómica y del grupo familiar del estudiante; es requisito obligatorio previo a la matriculación.",
+    "plataforma": "SIU - Módulo Bienestar Universitario (https://siu.yachaytech.edu.ec)",
+    "requisitos_documentos": [
+      "Documento de identidad: ecuatorianos copia de cédula a color; extranjeros copia de pasaporte, carné de refugiado vigente o visa de estudios actualizada, a color",
+      "Fotografía tamaño carnet actualizada, a color, con fondo blanco",
+      "Certificado o carné de discapacidad del MSP con valoración igual o superior al 30% (solo si aplica)",
+      "Certificado de enfermedad grave, rara, huérfana o catastrófica (solo si aplica)"
+    ],
+    "pasos": [
+      "Paso 1: Ingresar a https://siu.yachaytech.edu.ec con el usuario y contraseña de la Cuenta Única.",
+      "Paso 2: En el menú lateral izquierdo, seleccionar la opción 'FICHA ESTUDIANTIL SE'.",
+      "Paso 3: Completar el Apartado 1 - Datos Personales (datos de nacimiento y dirección domiciliar: de procedencia y de estudios).",
+      "Paso 4: Completar el Apartado 2 - Datos Académicos (colegio de procedencia e idiomas).",
+      "Paso 5: Completar el Apartado 3 - Socioeconómica parte 1 (estructura familiar, representante legal/económico y al menos 2 referencias familiares que no vivan con el estudiante).",
+      "Paso 6: Completar el Apartado 4 - Socioeconómica parte 2 (ingresos adicionales y gastos del hogar).",
+      "Paso 7: Completar el Apartado 5 - Información de Vivienda (servicios básicos, patrimonio familiar con mínimo 8 bienes marcados, datos de la vivienda del núcleo familiar).",
+      "Paso 8: Completar el Apartado 6 - Datos Grupo Familiar (enfermedades catastróficas y discapacidades certificadas).",
+      "Paso 9: Completar el Apartado 7 - Dinámica Familiar (todas las preguntas son obligatorias).",
+      "Paso 10: Completar el Apartado 8 - Adaptación al Medio Universitario.",
+      "Paso 11: Completar el Apartado 9 - Documentos: cargar cédula/pasaporte y fotografía con el formato 'Archivo Requerido – Nombre, Apellido'.",
+      "Paso 12: Hacer clic en 'Enviar Ficha' y aceptar el mensaje de confirmación de registro satisfactorio."
+    ],
+    "soporte_correo": "trabajosocial@yachaytech.edu.ec",
+    "plazos": "Debe estar completada y validada por la Dirección General de Bienestar Universitario (DGBU) antes de iniciar el proceso de matriculación.",
+    "fuente_oficial": "Manual de Usuario para el Estudiante - Sistema Integrado Universitario (SIU) Módulo Bienestar Universitario, Versión 2.0",
+    "nombre_en": "Socioeconomic Form",
+    "objetivo_en": "Register the student's personal, academic, and socioeconomic information, along with family background data, in the SIU system; this must be completed before enrollment.",
+    "requisitos_en": [
+      "Valid national ID card (cédula); foreign students must provide a valid passport.",
+      "Recent passport-size photo with a white background.",
+      "MSP disability certificate, if the disability rating is 30% or higher (only if applicable).",
+      "Proof of catastrophic illness, if applicable (only if applicable)."
+    ],
+    "pasos_en": [
+      "1. Go to https://siu.yachaytech.edu.ec and log in with your Single Account credentials.",
+      "2. From the side menu, select 'FICHA ESTUDIANTIL SE' (Student Form SE).",
+      "3. Complete Section 1 (Personal Data, place of origin).",
+      "4. Complete Section 2 (Academic Data, languages spoken).",
+      "5. Complete Section 3 (Family Data, financial guardian, two references).",
+      "6. Complete Section 4 (Household income and expenses).",
+      "7. Complete Section 5 (Housing assets; mark at least 8 items).",
+      "8. Complete Section 6 (Serious illnesses, disabilities).",
+      "9. Complete Section 7 (Family dynamics questions) in full.",
+      "10. Complete Section 8 (University adaptation questions).",
+      "11. Section 9 (Documents): upload your ID and photo named 'Required File – FirstName LastName'.",
+      "12. Click 'Enviar Ficha' (Submit Form), then 'Aceptar' (Accept) to finish."
+    ],
+    "plazos_en": "Must be completed and validated by DGBU (Trabajo Social) before enrollment begins.",
+    "nombre_kichwa": "Waki Kullkikamay Killkapanka",
+    "objetivo_kichwa": "Yachakukpa kikinpak, yachaymanta, waki kullkikamaymantapash willayta, ayllupa chanikunawan pakta SIU llikapi killkakamay; shutikillkamay manarak kallarikpi paktachinami kan.",
+    "requisitos_kichwa": [
+      "Kunanpacha kikinyaripanka (istakkuna: kunanpacha pasaporte panka)",
+      "Kunanlla carnet llatun rikchak, yurak ukuwan",
+      "MSP wasipa manaushashka panka, kamaykuy 30% patsakri pakta mana kashpaka yallishka kakpi (mutsurikllapi)"
+    ],
+    "pasos_kichwa": [
+      "1. Shuklla yupaywan siu.yachaytech.edu.ec llikaman yaykuy.",
+      "2. ‘FICHA ESTUDIANTIL SE’ chikllata akllay.",
+      "3-10. Kikinpak, yachaymanta, ayllumanta, kawsanawasimanta, ayllupa imaykunamanta, ayllu kuyukuymanta, hatun yachaywasiman amañariymantapash rakirikunata huntachiy.",
+      "11. Tukrikillkakunata wichayachiy.",
+      "12. ‘Enviar Ficha’ shinapash ‘Aceptar’ nishkapi ñitiy."
+    ],
+    "plazos_kichwa": "Shutikillkamay manarak kallarikpi huntachishka shinapash DGBU (Trabajo Social) wasimanta allinishkami kana kan."
+  },
+  {
+    "id": "matriculacion_miyt",
+    "nombre_oficial": "Matriculación en el Sistema MiYT",
+    "categoria": "Servicios Académicos",
+    "objetivo": "Orientar al estudiante en el registro e inscripción de asignaturas para el periodo académico mediante el sistema de gestión académica MiYT.",
+    "plataforma": "MiYT (https://autoservicio.yachaytech.edu.ec)",
+    "requisitos_documentos": [
+      "Ficha socioeconómica completada y validada por la DGBU",
+      "Cuenta única institucional (usuario y contraseña)"
+    ],
+    "pasos": [
+      "Paso 1: Completar y validar la Ficha Socioeconómica (requisito previo obligatorio; sin esto el sistema bloquea la matrícula).",
+      "Paso 2: Ingresar a https://autoservicio.yachaytech.edu.ec con la cuenta única (usuario = primer nombre.primer apellido).",
+      "Paso 3: Ir a la pestaña 'INSCRIPCIONES', luego 'PLAN ACADÉMICO' y seleccionar el plan de estudios.",
+      "Paso 4: Dar clic en la lupa de cada asignatura a inscribir, revisar los horarios/grupos disponibles y dar clic en 'AGREGAR'.",
+      "Paso 5: Para agregar más asignaturas, regresar a 'ENLACES' > 'PLAN ACADÉMICO' y repetir el proceso.",
+      "Paso 6: Dar clic en 'CONTINUAR CON LA INSCRIPCIÓN' y verificar el listado (se puede eliminar o agregar asignaturas antes de confirmar).",
+      "Paso 7: Dar clic en 'SIGUIENTE' para finalizar; el sistema mostrará un mensaje confirmando que la matrícula fue registrada.",
+      "Paso 8: Si existen valores por pérdida de gratuidad (ej. segunda matrícula), se enviará un correo institucional con instrucciones y fechas de pago; la matrícula solo queda legalizada tras pagar dentro del plazo."
+    ],
+    "soporte_correo": "soporteacademico@yachaytech.edu.ec",
+    "plazos": "Las fechas de pago por pérdida de gratuidad son socializadas oportunamente por la DGSA. Sin el pago dentro del plazo, las asignaturas son dadas de baja.",
+    "fuente_oficial": "Instructivo de Matriculación en MIYT 2026SEM02 - Dirección General de Servicios Académicos (DGSA)",
+    "nombre_en": "MiYT Enrollment",
+    "objetivo_en": "Help students select and register their courses for the upcoming academic term through the MiYT platform.",
+    "requisitos_en": [
+      "Socioeconomic Form validated by DGBU (Trabajo Social).",
+      "Single Account (institutional username and password)."
+    ],
+    "pasos_en": [
+      "1. Complete the Socioeconomic Form and have it validated by DGBU (the system will block enrollment otherwise).",
+      "2. Log in to https://autoservicio.yachaytech.edu.ec with your Single Account (firstname.lastname).",
+      "3. Go to 'INSCRIPCIONES' (Enrollment), then select 'PLAN ACADÉMICO' (Academic Plan).",
+      "4. Click the magnifying glass icon next to a course, choose a schedule, and click 'AGREGAR' (Add).",
+      "5. To add more courses, return to 'ENLACES' > 'PLAN ACADÉMICO'.",
+      "6. Once all courses are selected, click 'CONTINUAR CON LA INSCRIPCIÓN' (Continue Enrollment) and review your selection.",
+      "7. Click 'SIGUIENTE' (Next); the system will confirm your enrollment was successful.",
+      "8. If payment is required (e.g., a second enrollment in a course), you will receive an email with payment instructions and deadlines."
+    ],
+    "plazos_en": "Payment deadlines, if applicable, will be communicated by DGSA via email. Unpaid courses will be dropped.",
+    "nombre_kichwa": "MiYT Llikapi Shutikillkamay",
+    "objetivo_kichwa": "MiYT llikata hatallishpa yachaykunata killkakamaypi shutikillkamaypipash yachakukkunata pushay.",
+    "requisitos_kichwa": [
+      "DGBU wasimanta allinishka Waki Kullkikamay Killkapanka",
+      "Shuklla yupay (hatun yachaywasipa yupay)"
+    ],
+    "pasos_kichwa": [
+      "1. Shuklla yupaywan autoservicio.yachaytech.edu.ec llikaman yaykuy.",
+      "2. ‘INSCRIPCIONES’ > ‘PLAN ACADÉMICO’ kuskaman riy.",
+      "3. Yachaypa uchikishpirikuchipi ñitiy, sayllachikta akllay shinapash ‘AGREGAR’ nishkapi ñitiy.",
+      "4. Ashtawan yachaykunapak ‘ENLACES’ > ‘PLAN ACADÉMICO’ kuskapi kutinchiy.",
+      "5. ‘CONTINUAR CON LA INSCRIPCIÓN’ nishkapi ñitiy.",
+      "6. Arininkapak ‘SIGUIENTE’ nishkapi ñitiy."
+    ],
+    "plazos_kichwa": "Yankakushka chinkarishka tiyakpika, payllana yachanatatkikunawan payllana pachakunawanpash correo electrónico hillaypi chaskita kachankami."
+  },
+  {
+    "id": "visualizacion_horarios",
+    "nombre_oficial": "Visualización del Horario de Clases",
+    "categoria": "Servicios Académicos",
+    "objetivo": "Permitir al estudiante consultar el horario de clases asignado tras completar la matriculación.",
+    "plataforma": "MiYT (https://autoservicio.yachaytech.edu.ec)",
+    "requisitos_documentos": [
+      "Cuenta única institucional",
+      "Matrícula registrada en el periodo académico vigente"
+    ],
+    "pasos": [
+      "Paso 1: Ingresar a https://autoservicio.yachaytech.edu.ec con la cuenta única.",
+      "Paso 2: Ir a 'Inscripciones' > 'Plan Académico' y seleccionar el plan de estudios correspondiente.",
+      "Paso 3: Seleccionar la opción 'Inscripción' en el menú lateral izquierdo.",
+      "Paso 4: Escoger la opción 'Ver horario'.",
+      "Paso 5: Verificar que el periodo académico mostrado sea el vigente.",
+      "Paso 6: Opcionalmente, seleccionar la opción 'Ficha' para visualizar el horario en formato gráfico."
+    ],
+    "soporte_correo": "soporteacademico@yachaytech.edu.ec",
+    "plazos": "No aplica.",
+    "fuente_oficial": "Instrucciones para Visualizar el Horario de Clases - DGSA",
+    "nombre_en": "Viewing Class Schedules",
+    "objetivo_en": "Help students view their class schedule within the MiYT system.",
+    "requisitos_en": [
+      "Single Account login credentials.",
+      "Currently enrolled for the term."
+    ],
+    "pasos_en": [
+      "1. Log in to https://autoservicio.yachaytech.edu.ec with your Single Account.",
+      "2. Go to 'Inscripciones' > 'Plan Académico'.",
+      "3. From the side menu, click 'Inscripción' (Enrollment).",
+      "4. Click 'Ver horario' (View Schedule).",
+      "5. Confirm that the correct current term is selected.",
+      "6. Optionally, click 'Ficha' to view the schedule in a graphic/calendar format."
+    ],
+    "plazos_en": "No deadline; the schedule can be viewed at any time.",
+    "nombre_kichwa": "Sayllachikkunata Rikuy",
+    "objetivo_kichwa": "Yachakuk paypa yachana sayllachikta MiYT llika ukupi tapuchun sakiy.",
+    "requisitos_kichwa": [
+      "Shuklla yupaypa yaykuna shimikuna",
+      "Kunan mitapi shutikillkamashka kay"
+    ],
+    "pasos_kichwa": [
+      "1. autoservicio.yachaytech.edu.ec llikaman yaykuy.",
+      "2. ‘Inscripciones’ > ‘Plan Académico’ kuskaman riy.",
+      "3. ‘Inscripción’ nishkapi ñitiy.",
+      "4. ‘Ver horario’ nishkapi ñitiy.",
+      "5. Alli mitata ariniy.",
+      "6. Munashpaka: shuyu wallpapi rikunkapak ‘Ficha’ nishkapi ñitiy."
+    ],
+    "plazos_kichwa": "Mana saywapachayuk; maykan pachapipash tapunallami kan."
+  },
+  {
+    "id": "solicitud_residencia",
+    "nombre_oficial": "Solicitud de Plaza de Residencia Universitaria",
+    "categoria": "Bienestar Universitario - Residencias",
+    "objetivo": "Solicitar una plaza en las residencias universitarias a través del Sistema Integrado de Residencias Universitarias.",
+    "plataforma": "SIU - Módulo de Residencias (https://siu.yachaytech.edu.ec/login)",
+    "requisitos_documentos": [
+      "Ficha socioeconómica validada por Trabajo Social",
+      "Pertenecer al grupo socioeconómico correspondiente a la plaza disponible",
+      "No mantener sanciones que impidan la solicitud (puntaje de historial)"
+    ],
+    "pasos": [
+      "Paso 1: Ingresar al SIU (https://siu.yachaytech.edu.ec) con usuario y contraseña de cuenta única.",
+      "Paso 2: En el menú lateral, ingresar al módulo 'Residencias' > 'Operaciones'.",
+      "Paso 3: En la pantalla de Solicitud, filtrar por tipo de residencia y revisar las plazas disponibles (solo se muestran las acordes al grupo socioeconómico, género y disponibilidad del estudiante).",
+      "Paso 4: Dar clic en 'Solicitar reserva' sobre la plaza deseada.",
+      "Paso 5: Confirmar revisando el detalle de la plaza en la ventana flotante y dar clic en 'Continuar'.",
+      "Paso 6: Seleccionar el tipo de pago.",
+      "Paso 7: Leer y aceptar el 'Reglamento de Residencias para Estudiantes' (checkbox) y dar clic en 'Solicitar'.",
+      "Paso 8: La solicitud queda registrada y pasa a la bandeja de aprobación de la Dirección General de Bienestar Universitario (DGBU).",
+      "Paso 9: Verificar el estado en 'Listado de solicitudes' > 'Ver solicitud' (estados posibles: Ingresado, En revisión, Negada, Aprobada, Entrega/Recepción de Documentos, Archivado)."
+    ],
+    "soporte_correo": "vidacomunitaria@yachaytech.edu.ec",
+    "plazos": "Primera convocatoria 2026SEM02: 11 al 15 de julio de 2026. Fuera de convocatoria ordinaria: 11 al 15 de agosto de 2026, con pago anticipado entre el 17 y el 20 de agosto de 2026.",
+    "fuente_oficial": "Manual de Sistema Integrado de Residencias Universitarias (SIU V2.0) Módulo de Residencias - Rol Estudiante; Lineamientos para Renovación y Convocatoria de Residencias 2026SEM02",
+    "nombre_en": "New Residence Hall Application",
+    "objetivo_en": "Help students apply for a room in Yachay Tech's residence halls through the SIU system.",
+    "requisitos_en": [
+      "Socioeconomic Form validated by Trabajo Social.",
+      "Available slots within the student's socioeconomic group.",
+      "No pending disciplinary sanctions related to residence halls."
+    ],
+    "pasos_en": [
+      "1. Log in to https://siu.yachaytech.edu.ec with your Single Account.",
+      "2. From the menu, go to 'Residencias' > 'Operaciones'.",
+      "3. Select the residence sector and view available slots.",
+      "4. Click 'Solicitar reserva' (Request Reservation).",
+      "5. Review the residence details and click 'Continuar' (Continue).",
+      "6. Choose your payment method.",
+      "7. Read the 'Reglamento de Residencias' (Residence Regulations), check the acceptance box, and click 'Solicitar' (Apply).",
+      "8. Your request will be pending review by DGBU.",
+      "9. Track your application status under 'Listado de solicitudes' > 'Ver solicitud'."
+    ],
+    "plazos_en": "First call: July 11–15, 2026. Later calls: August 11–15, 2026.",
+    "nombre_kichwa": "Mushuk Kawsanawasita Mañay",
+    "objetivo_kichwa": "SIU llika ukupura Yachay Tech kawsanawasikunapi shuk kuskata yachakukkuna mañachun sakiy.",
+    "requisitos_kichwa": [
+      "Allinishka Waki Kullkikamay Killkapanka",
+      "Waki kullkikamay tantayman nikishpa kuskakuna tiyay",
+      "Kawsanawasikunawan purachishka chayrak wanarikunata mana chariy"
+    ],
+    "pasos_kichwa": [
+      "1. siu.yachaytech.edu.ec llikaman yaykuy.",
+      "2. ‘Residencias’ > ‘Operaciones’ kuskaman riy.",
+      "3. Kuskata akllay shinapash tiyak kuskakunata rikuy.",
+      "4. ‘Solicitar reserva’ nishkapi ñitiy.",
+      "5. Imakaykunata kutinrikuy shinapash ‘Continuar’ nishkapi ñitiy.",
+      "6. Payllana ñanta akllay.",
+      "7. Kawsanawasikunapa Kamachikanchata killkakatiy, ariniy shinapash ‘Solicitar’ nishkapi ñitiy.",
+      "8. DGBU wasipa kutinrikuyta shuyay."
+    ],
+    "plazos_kichwa": "Shukniki kayachi: 2026 watapa sitwa killapi 11manta 15kama. Kipak kayachikuna: 2026 watapa karway killapi 11manta 15kama."
+  },
+  {
+    "id": "renovacion_residencia",
+    "nombre_oficial": "Renovación de Plaza de Residencia Universitaria",
+    "categoria": "Bienestar Universitario - Residencias",
+    "objetivo": "Permitir a estudiantes ya asignados a una residencia continuar usándola en el siguiente periodo académico.",
+    "plataforma": "Formulario enviado por correo institucional + SIU - Módulo de Residencias",
+    "requisitos_documentos": [
+      "Completar el formulario de renovación dentro de las fechas establecidas",
+      "Ficha socioeconómica validada por Trabajo Social",
+      "No mantener valores pendientes con la UITEY",
+      "No tener faltas disciplinarias ni incumplimientos del reglamento de residencias",
+      "Haber entregado la residencia en condiciones de limpieza adecuadas (check-out cumplido)",
+      "Acreditar acompañamiento en salud mental (constancia o certificado emitido por profesional habilitado)",
+      "Aceptar la modalidad de residencia amoblada y la tarifa actualizada vigente (si aplica)"
+    ],
+    "pasos": [
+      "Paso 1: Completar el formulario de renovación enviado al correo institucional por la Gestión de Promoción de la Vida Comunitaria.",
+      "Paso 2: Esperar la verificación de requisitos por parte de la Dirección de Bienestar Universitario (DBU).",
+      "Paso 3: Realizar el pago anticipado (proporcional de agosto + mes completo de septiembre) entre el 03 y el 09 de agosto de 2026.",
+      "Paso 4: Entregar de forma presencial los documentos habilitantes (copia de cédula/pasaporte, documentos firmados con esfero de tinta azul) en la oficina de Vida Comunitaria, planta baja del edificio Senescyt.",
+      "Paso 5: Ingresar a la residencia entre el 11 y el 13 de agosto de 2026 (08h00-16h00) presentando: correo de aprobación del SIU, cédula/pasaporte, comprobante de pago y documento de check-in."
+    ],
+    "soporte_correo": "vidacomunitaria@yachaytech.edu.ec",
+    "plazos": "Formulario de renovación: 03 al 06 de julio de 2026. Autorización para egresados: hasta el 10 de julio de 2026. Certificado de salud mental: hasta el 27 de julio de 2026 a psicologia@yachaytech.edu.ec. Pago anticipado: 03 al 09 de agosto de 2026. Ingreso: 11 al 13 de agosto de 2026.",
+    "fuente_oficial": "Lineamientos para Renovación y Convocatoria de Residencias Segundo Periodo Académico 2026 (2026SEM02) - Dirección de Bienestar Universitario / Dirección Administrativa",
+    "nombre_en": "Residence Hall Renewal",
+    "objetivo_en": "Allow students who already hold a residence slot to continue using it for the following term.",
+    "requisitos_en": [
+      "Complete the renewal form within the designated period.",
+      "Socioeconomic Form validated by Trabajo Social.",
+      "No outstanding debts with UITEY.",
+      "No violations of residence hall regulations.",
+      "Residence returned clean and in proper condition upon check-out.",
+      "Submit a mental health care certificate/attendance proof.",
+      "Accept the updated furnished-residence rate."
+    ],
+    "pasos_en": [
+      "1. Complete the renewal form sent by Vida Comunitaria to your institutional email.",
+      "2. Wait for review by DBU.",
+      "3. Make the advance payment for August (prorated) and September (full) between August 3–9, 2026.",
+      "4. Submit your ID copy and blue-ink signed documents in person at Vida Comunitaria (Senescyt building).",
+      "5. Move-in is authorized between August 11–13, 2026, from 08:00 to 16:00."
+    ],
+    "plazos_en": "Form submission: July 3–6, 2026. Mental health certificate: due by July 27, 2026, to psicologia@yachaytech.edu.ec. Payment: August 3–9, 2026.",
+    "nombre_kichwa": "Kawsanawasita Mushukyachiy",
+    "objetivo_kichwa": "Ña kuskata charik yachakukkuna shamuk mitapi chay kawsanawasillatatak hatallishpa katichun sakiy.",
+    "requisitos_kichwa": [
+      "Rikuchishka mitapi mushukyachina killkapankata huntachiy",
+      "Allinishka Waki Kullkikamay Killkapanka",
+      "UITEY wasiwan chayrak manukunata mana chariy",
+      "Kawsanawasikunapa kamachikanchata mana pakishka kay",
+      "Kawsanawasita chuya shinapash alli kashkapi chaskichiy",
+      "Yuyaykak allikaypi uyarichay kakwillayta rikuchiy",
+      "Imaykunayuk kawsanawasipa mushuk chanita chaskiy"
+    ],
+    "pasos_kichwa": [
+      "1. Ayllullakta Kawsay kuskamanta kachashka mushukyachina killkapankata huntachiy.",
+      "2. DBU wasipa kutinrikuyta shuyay.",
+      "3. 2026 watapa karway killapi 3manta 9kama, karway killapa (lutsayak) shinapash kuski killapa (paktakta) ñawpashka payllayta ruray.",
+      "4. Kikinyaripankapa chayshinayata shinapash ankas tullpuyakuwan shuti aspishka tukrikillkakunata, paykikin, Ayllullakta Kawsay kuskapi (Senescyt hatunwasi) chaskichiy.",
+      "5. Yaykuyka 2026 watapa karway killapi 11manta 13kama, 08:00 sayllamanta 16:00 sayllakama arinishkami kanka."
+    ],
+    "plazos_kichwa": "Killkapanka: 2026 watapa sitwa killapi 3manta 6kama. Yuyaykak allikay kakwillay: 2026 watapa sitwa killapi 27kama, psicologia@yachaytech.edu.ec correo electrónico hillayman. Payllay: 2026 watapa karway killapi 3manta 9kama."
+  },
+  {
+    "id": "renuncia_residencia",
+    "nombre_oficial": "Solicitud de Renuncia a Residencia",
+    "categoria": "Bienestar Universitario - Residencias",
+    "objetivo": "Formalizar la renuncia a una plaza de residencia universitaria previamente asignada.",
+    "plataforma": "SIU - Módulo de Residencias",
+    "requisitos_documentos": [
+      "Ser residente activo con plaza asignada",
+      "Presentar la renuncia antes de efectuar el pago del periodo (no procede devolución de valores ya cancelados)"
+    ],
+    "pasos": [
+      "Paso 1: Ingresar al componente 'Solicitud-Renuncia' dentro del Módulo de Residencias en el SIU.",
+      "Paso 2: Revisar los detalles de la residencia actual mostrados en el sistema.",
+      "Paso 3: Seleccionar el motivo principal de la renuncia.",
+      "Paso 4: Escribir una breve descripción del motivo y dar clic en 'Continuar'.",
+      "Paso 5: Aceptar los términos de renuncia y dar clic en 'Solicitar'.",
+      "Paso 6: Acercarse presencialmente a la oficina de Gestión de Promoción de la Vida Comunitaria (DBU, planta baja edificio Senescyt) a suscribir el formulario físico de Renuncia.",
+      "Paso 7: El sistema confirmará el registro (máximo una solicitud de renuncia permitida por periodo académico)."
+    ],
+    "soporte_correo": "vidacomunitaria@yachaytech.edu.ec",
+    "plazos": "Debe presentarse antes de efectuar el pago del periodo correspondiente; máximo una renuncia por periodo académico.",
+    "fuente_oficial": "Manual del Sistema Integrado de Residencias Universitarias (SIU V2.0); Lineamientos de Residencias 2026SEM02, numeral 8",
+    "nombre_en": "Residence Hall Withdrawal",
+    "objetivo_en": "Allow a student to formally notify the university of their decision to give up their residence hall slot.",
+    "requisitos_en": [
+      "Currently hold an active residence hall slot.",
+      "Submit the withdrawal request before making the corresponding payment (payments already made are non-refundable)."
+    ],
+    "pasos_en": [
+      "1. In the SIU Residence Module, select 'Solicitud-Renuncia' (Withdrawal Request).",
+      "2. Review your current residence details.",
+      "3. Select the reason for your withdrawal.",
+      "4. Write a brief explanation and click 'Continuar' (Continue).",
+      "5. Accept the withdrawal terms and click 'Solicitar' (Apply).",
+      "6. Visit Vida Comunitaria (Senescyt building, ground floor) in person to sign the withdrawal form.",
+      "7. Only one withdrawal request is allowed per academic term."
+    ],
+    "plazos_en": "Must be submitted before the corresponding payment is made; no refunds apply once payment is completed. Only one withdrawal allowed per term.",
+    "nombre_kichwa": "Kawsanawasita Waskiy (Sakiy)",
+    "objetivo_kichwa": "Yachakuk paypa kawsanawasi kuskata waskina hamutachayta kapakllaktakak willaychachichun sakiy.",
+    "requisitos_kichwa": [
+      "Kunanpacha kawsak kawsanawasi kuskata chariy",
+      "Nipapurachik payllayta manarak rurashpa waskiyta rikuchiy (ña rurashka payllaykunaka mana kutichinallachu kan)"
+    ],
+    "pasos_kichwa": [
+      "1. SIU llikapa Kawsanawasikuna rakiripi, ‘Solicitud-Renuncia’ chikllata akllay.",
+      "2. Kunan kawsanawasipa imakaykunata kutinrikuy.",
+      "3. Waskiypa raykuyta akllay.",
+      "4. Uchilla rimaychayta killkay shinapash ‘Continuar’ nishkapi ñitiy.",
+      "5. Kamachikunata chaskiy shinapash ‘Solicitar’ nishkapi ñitiy.",
+      "6. Waskina killkapankata shuti aspinkapak Ayllullakta Kawsay kuskaman (Senescyt hatunwasi, ura pata) paykikin kimiriy."
+    ],
+    "plazos_kichwa": "Nipapurachik payllay manarak rurarikpi rikuchinami kan; ña payllashka kipaka mana kullki kutichiy tiyanchu. Sapan yachay mitapi shuk waskiyllami arinishka kan."
+  }
+]

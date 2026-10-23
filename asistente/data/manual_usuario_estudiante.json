@@ -1,0 +1,2466 @@
+{
+  "file name" : "manual_usuario_estudiante.pdf",
+  "number of pages" : 17,
+  "author" : "Manuel Narváez",
+  "title" : null,
+  "creation date" : "D:20250613150046-05'00'",
+  "modification date" : "D:20250613150046-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 2,
+    "page number" : 1,
+    "bounding box" : [ 265.75, 593.954, 510.408, 706.422 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "MANUAL DE USUARIO PARA EL ESTUDIANTE SISTEMA INTEGRADO UNIVERSITARIO (SIU) MÓDULO BIENESTAR UNIVERSITARIO Versión 2.0 Producido por: Dirección General de Tecnología de la Información y Comunicaciones YACHAYTECH"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 3,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 99.144, 390.41, 496.44, 547.87 ],
+    "number of rows" : 5,
+    "number of columns" : 5,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 5,
+        "page number" : 1,
+        "bounding box" : [ 99.624, 528.07, 495.962, 547.39 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 5,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 1,
+          "bounding box" : [ 247.61, 532.55, 347.914, 543.102 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "HISTORIAL DE CAMBIOS"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 8,
+        "page number" : 1,
+        "bounding box" : [ 99.624, 508.51, 155.902, 528.07 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 9,
+          "page number" : 1,
+          "bounding box" : [ 111.5, 512.99, 143.774, 523.542 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Versión"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 10,
+        "page number" : 1,
+        "bounding box" : [ 155.902, 508.51, 262.245, 528.07 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 1,
+          "bounding box" : [ 169.73, 512.99, 248.183, 523.542 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "DETALLE / ACCIÓN"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 12,
+        "page number" : 1,
+        "bounding box" : [ 262.245, 508.51, 361.392, 528.07 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 1,
+          "bounding box" : [ 285.55, 512.99, 338.074, 523.542 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Responsable"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 14,
+        "page number" : 1,
+        "bounding box" : [ 361.392, 508.51, 440.377, 528.07 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 388.54, 517.31, 413.371, 527.862 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Firma"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 16,
+        "page number" : 1,
+        "bounding box" : [ 440.377, 508.51, 495.962, 528.07 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 17,
+          "page number" : 1,
+          "bounding box" : [ 456.1, 512.99, 480.229, 523.542 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Fecha"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 18,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 19,
+        "page number" : 1,
+        "bounding box" : [ 99.624, 469.27, 155.902, 508.51 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 20,
+          "page number" : 1,
+          "bounding box" : [ 102.86, 488.03, 146.447, 498.582 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Versión 2.0"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 21,
+        "page number" : 1,
+        "bounding box" : [ 155.902, 469.27, 262.245, 508.51 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 22,
+          "page number" : 1,
+          "bounding box" : [ 159.29, 488.03, 252.341, 498.582 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Creación del documento"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 23,
+        "page number" : 1,
+        "bounding box" : [ 262.245, 469.27, 361.392, 508.51 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 24,
+          "page number" : 1,
+          "bounding box" : [ 265.75, 488.03, 353.689, 498.582 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Ing. Manuel Narváez R."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 25,
+        "page number" : 1,
+        "bounding box" : [ 361.392, 469.27, 440.377, 508.51 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 26,
+        "page number" : 1,
+        "bounding box" : [ 440.377, 469.27, 495.962, 508.51 ],
+        "row number" : 3,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 27,
+          "page number" : 1,
+          "bounding box" : [ 443.86, 488.03, 492.666, 498.582 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "01/06/2024"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "id" : 28,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 29,
+        "page number" : 1,
+        "bounding box" : [ 99.624, 429.912, 155.902, 469.27 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 30,
+          "page number" : 1,
+          "bounding box" : [ 102.86, 448.79, 146.486, 459.342 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Versión 2.0"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 31,
+        "page number" : 1,
+        "bounding box" : [ 155.902, 429.912, 262.245, 469.27 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 32,
+          "page number" : 1,
+          "bounding box" : [ 159.29, 443.03, 222.668, 464.982 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Modificación del documento"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 33,
+        "page number" : 1,
+        "bounding box" : [ 262.245, 429.912, 361.392, 469.27 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 34,
+          "page number" : 1,
+          "bounding box" : [ 265.75, 448.79, 353.689, 459.342 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Ing. Manuel Narváez R."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 35,
+        "page number" : 1,
+        "bounding box" : [ 361.392, 429.912, 440.377, 469.27 ],
+        "row number" : 4,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 36,
+        "page number" : 1,
+        "bounding box" : [ 440.377, 429.912, 495.962, 469.27 ],
+        "row number" : 4,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 37,
+          "page number" : 1,
+          "bounding box" : [ 443.86, 448.79, 492.666, 459.342 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "07/08/2024"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "id" : 38,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 39,
+        "page number" : 1,
+        "bounding box" : [ 99.624, 390.89, 155.902, 429.912 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 40,
+          "page number" : 1,
+          "bounding box" : [ 102.86, 409.43, 146.447, 419.982 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Versión 2.0"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 41,
+        "page number" : 1,
+        "bounding box" : [ 155.902, 390.89, 262.245, 429.912 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 42,
+          "page number" : 1,
+          "bounding box" : [ 159.29, 403.79, 222.668, 425.742 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Modificación del documento"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 43,
+        "page number" : 1,
+        "bounding box" : [ 262.245, 390.89, 361.392, 429.912 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 44,
+          "page number" : 1,
+          "bounding box" : [ 265.75, 409.43, 353.689, 419.982 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Ing. Manuel Narváez R."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 45,
+        "page number" : 1,
+        "bounding box" : [ 361.392, 390.89, 440.377, 429.912 ],
+        "row number" : 5,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 46,
+        "page number" : 1,
+        "bounding box" : [ 440.377, 390.89, 495.962, 429.912 ],
+        "row number" : 5,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 47,
+          "page number" : 1,
+          "bounding box" : [ 443.86, 409.43, 492.666, 419.982 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "11/06/2025"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 48,
+    "page number" : 2,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile2.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 49,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 85.104, 721.514, 217.932, 735.582 ],
+    "heading level" : 2,
+    "font" : "Cambria-Bold",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "INDICE DE CONTENIDOS"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 50,
+    "page number" : 2,
+    "bounding box" : [ 85.104, 679.66, 509.957, 710.26 ],
+    "font" : "Calibri",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "MÓDULO BIENESTAR UNIVERSITARIO .......................................................................................... 4 REGISTRO DE INFORMACIÓN FICHA SOCIOECONÓMICA ............................................................. 5"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 51,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 96.144, 484.75, 509.957, 671.26 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 9,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 52,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 660.22, 509.957, 671.26 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 1 – Datos Personales.............................................................................................. 6",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 53,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 640.66, 509.957, 651.7 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 2 – Datos Académicos ............................................................................................ 8",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 54,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 621.22, 509.957, 632.26 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 3 – Socioeconómica (parte 1):................................................................................ 8",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 55,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 601.66, 509.957, 612.7 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 4 – Socioeconómica (parte 2)............................................................................... 10",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 56,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 562.75, 509.957, 593.26 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 5 – Información de Vivienda ................................................................................ 12 Patrimonio Familiar.................................................................... ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 57,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 543.19, 509.957, 554.23 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 6 – Datos Grupo Familiar: .................................................................................... 14",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 58,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 523.75, 509.957, 534.79 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 7 – Dinámica Familiar........................................................................................... 15",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 59,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 504.19, 509.957, 515.23 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 8 – Adaptación al Medio Universitario: ............................................................... 16",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 60,
+      "page number" : 2,
+      "bounding box" : [ 96.144, 484.75, 509.957, 495.79 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 9 – Documentos ................................................................................................... 16",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 61,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 85.104, 421.964, 193.116, 436.032 ],
+    "heading level" : 2,
+    "font" : "Cambria-Bold",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "INDICE DE FÍGURAS"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 62,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 107.06, 87.744, 509.957, 410.71 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 17,
+    "next list id" : 81,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 63,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 399.67, 509.957, 410.71 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 1 – Enlace de Ingreso al Sistema. ............................................................................... 4",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 64,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 380.21, 509.957, 391.25 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 2 – Inicio de Sesión -Opciones Módulos..................................................................... 4",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 65,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 360.65, 509.77, 371.69 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 3. – Aviso de aceptación de términos. ........................ ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 66,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 341.21, 509.77, 352.25 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 4 – Datos Personales. .................................................. ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 67,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 321.65, 509.957, 332.69 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 5 – Datos de Nacimiento. ........................................................................................... 6",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 68,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 302.21, 509.77, 313.25 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 6 – Registro de Dirección Estudiante. ......................... ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 69,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 282.77, 509.77, 293.81 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 7 – Listado de Direcciones........................................... ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 70,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 263.21, 509.957, 274.25 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 8 – Datos Académicos. ............................................................................................... 8",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 71,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 243.77, 509.957, 254.81 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 9 – Estructura Familiar. .............................................................................................. 9",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 72,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 224.21, 509.957, 235.25 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 10 - Establecer Representante Legal.......................................................................... 9",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 73,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 204.74, 509.957, 215.78 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 11 – Agregar Representante Legal. .......................................................................... 10",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 74,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 185.18, 509.957, 196.22 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 12 – Referencias Familiares...................................................................................... 10",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 75,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 165.74, 509.957, 176.78 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 13 – Económica Estudiante. ..................................................................................... 11",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 76,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 146.3, 509.957, 157.34 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 14 – Información Vivienda. ...................................................................................... 14",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 77,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 126.74, 509.77, 137.78 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 15 – Patrimonio Familiar. ............................................ ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 78,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 107.3, 509.957, 118.34 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 16 – Datos Grupo Familiar........................................................................................ 14",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 79,
+      "page number" : 2,
+      "bounding box" : [ 107.06, 87.744, 509.957, 98.784 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 17 – Registro de Enfermedades Estudiante. ............................................................ 14",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 80,
+    "page number" : 3,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile3.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 81,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 107.06, 644.38, 509.957, 733.42 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 62,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 82,
+      "page number" : 3,
+      "bounding box" : [ 107.06, 722.38, 509.957, 733.42 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 18 – Registro de Discapacidades. ............................................................................. 15",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 83,
+      "page number" : 3,
+      "bounding box" : [ 107.06, 702.82, 509.957, 713.86 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 19 – Dinámica Familiar. ............................................................................................ 15",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 84,
+      "page number" : 3,
+      "bounding box" : [ 107.06, 683.38, 509.957, 694.42 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 20 – Adaptación al Medio Universitario................................................................... 16",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 85,
+      "page number" : 3,
+      "bounding box" : [ 107.06, 663.82, 509.957, 674.86 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 21 – Carga de Documentos. ..................................................................................... 17",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 86,
+      "page number" : 3,
+      "bounding box" : [ 107.06, 644.38, 509.77, 655.42 ],
+      "font" : "Calibri",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 22- Mensaje de confirmación...................................... ¡Error! Marcador no definido.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 87,
+    "page number" : 4,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile4.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 88,
+    "level" : "Doctitle",
+    "page number" : 4,
+    "bounding box" : [ 184.97, 720.341, 410.289, 735.535 ],
+    "heading level" : 1,
+    "font" : "Cambria-Bold",
+    "font size" : 12.96,
+    "text color" : "[0.0]",
+    "content" : "MÓDULO BIENESTAR UNIVERSITARIO"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H5",
+    "id" : 89,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 120.5, 684.887, 233.755, 696.564 ],
+    "heading level" : 5,
+    "font" : "Cambria-Bold",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "1. INGRESO AL SISTEMA"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 90,
+    "page number" : 4,
+    "bounding box" : [ 85.104, 635.087, 510.462, 675.99 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresa a la página web de Yachay Tech: https://www.yachaytech.edu.ec selecciona la opción Estudiantes y luego busca la opción SIU “Sistema Integrado Universitario”, o directamente a través del siguiente enlace: https://siu.yachaytech.edu.ec"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 99,
+    "page number" : 4,
+    "bounding box" : [ 88.92, 385.74, 524.22, 622.44 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile5.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 100,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 267.5, 581.23, 299.6, 594.73 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 101,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 102,
+        "page number" : 4,
+        "bounding box" : [ 268.25, 581.98, 298.85, 593.98 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 105,
+    "page number" : 4,
+    "bounding box" : [ 146.64, 365.27, 287.51, 530.04 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 106,
+    "page number" : 4,
+    "bounding box" : [ 162.0, 394.83, 257.984, 514.68 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile7.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 94,
+    "page number" : 4,
+    "bounding box" : [ 225.89, 363.304, 369.495, 372.73 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 1 – Enlace de Ingreso al Sistema."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 103,
+    "page number" : 4,
+    "bounding box" : [ 375.0, 140.1, 517.98, 350.76 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile8.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 95,
+    "page number" : 4,
+    "bounding box" : [ 85.104, 285.237, 363.732, 340.06 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Escribe tu usuario y contraseña y luego da clic en el botón “Ingresar al Sistema”. Los datos de acceso (credencial), son los mismos que utilizas para ingresar a los diferentes sistemas (Cuenta Única)"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 104,
+    "page number" : 4,
+    "bounding box" : [ 259.56, 149.34, 371.94, 271.08 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile9.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 96,
+    "page number" : 4,
+    "bounding box" : [ 85.104, 200.847, 246.708, 255.7 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Cuando hayas ingresado, busca el menú en la parte izquierda de la pantalla y selecciona la opción “FICHA ESTUDIANTIL SE”"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 97,
+    "level" : "4",
+    "page number" : 4,
+    "bounding box" : [ 213.29, 99.994, 382.245, 109.42 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 118,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 98,
+      "page number" : 4,
+      "bounding box" : [ 213.29, 99.994, 382.245, 109.42 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 2 – Inicio de Sesión -Opciones Módulos.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 117,
+    "page number" : 5,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile10.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 125,
+    "page number" : 5,
+    "bounding box" : [ 85.05, 404.37, 510.25, 735.57 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile11.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 118,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 218.45, 365.224, 377.07, 374.65 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 97,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 119,
+      "page number" : 5,
+      "bounding box" : [ 218.45, 365.224, 377.07, 374.65 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 3. – Aviso de aceptación de términos",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 120,
+    "level" : "Doctitle",
+    "page number" : 5,
+    "bounding box" : [ 135.38, 308.811, 459.776, 324.005 ],
+    "heading level" : 1,
+    "font" : "Cambria-Bold",
+    "font size" : 12.96,
+    "text color" : "[0.0]",
+    "content" : "REGISTRO DE INFORMACIÓN FICHA SOCIOECONÓMICA"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 121,
+    "page number" : 5,
+    "bounding box" : [ 85.104, 230.397, 510.368, 285.22 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "El sistema te pedirá registrar tu información personal, académica, socio económica, datos de tu grupo familiar de convivencia, entre otros. Recuerda que la información debe ser verídica y está sujeta a comprobación a través de cualquier medio que la Universidad considere pertinente."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 122,
+    "page number" : 5,
+    "bounding box" : [ 85.104, 180.567, 510.404, 221.47 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Yachay Tech te solicita esta información para varios procesos internos, se garantiza que la información que entregues es confidencial, pero a su vez podrá ser presentada ante autoridades de control en caso de ser necesario."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 123,
+    "page number" : 5,
+    "bounding box" : [ 85.104, 144.687, 510.332, 171.67 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "La solicitud de información se ha clasificado por apartados, registra aquellos campos vacíos y actualiza los que ya tienen información solamente en caso de ser necesario."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 124,
+    "page number" : 5,
+    "bounding box" : [ 85.104, 100.887, 433.319, 113.83 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "A continuación, te entregamos una breve descripción de cada uno de ellos:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 126,
+    "page number" : 6,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile12.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 128,
+    "level" : "2",
+    "page number" : 6,
+    "bounding box" : [ 85.104, 708.647, 510.233, 735.63 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 129,
+      "page number" : 6,
+      "bounding box" : [ 85.104, 708.647, 510.233, 735.63 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 1 – Datos Personales: Encontrarás varias secciones, por favor registra la información en cada una de ellas de acuerdo a lo solicitado.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 127,
+    "page number" : 6,
+    "bounding box" : [ 88.92, 526.14, 514.5, 673.68 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile13.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 130,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 239.93, 311.224, 355.575, 490.47 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 131,
+      "page number" : 6,
+      "bounding box" : [ 247.01, 481.044, 348.376, 490.47 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 4 – Datos Personales",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 132,
+        "page number" : 6,
+        "bounding box" : [ 85.104, 431.417, 510.282, 472.32 ],
+        "font" : "Cambria",
+        "font size" : 11.04,
+        "text color" : "[0.0]",
+        "content" : "Datos de Nacimiento: En este apartado deberás verificar si los datos de tu registro de nacimiento ya están cargados. En caso de que no lo estén, deberás seleccionarlos o ingresarlos manualmente."
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 133,
+      "page number" : 6,
+      "bounding box" : [ 239.93, 311.224, 355.575, 320.65 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 5 – Datos de Nacimiento.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 137,
+    "page number" : 6,
+    "bounding box" : [ 87.36, 332.7, 528.66, 420.24 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile14.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 134,
+    "page number" : 6,
+    "bounding box" : [ 85.104, 244.317, 510.456, 289.78 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Dirección Domiciliar: Para agregar las direcciones debes de hacer clic en el botón de color rojo “Agregar Dirección” . Recuerda que necesitas ingresar dos tipos de direcciones para poder continuar."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 138,
+    "page number" : 6,
+    "bounding box" : [ 212.07, 260.92, 281.82, 275.917 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile15.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 135,
+    "page number" : 6,
+    "bounding box" : [ 85.104, 194.487, 510.48, 235.42 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Primero, selecciona la dirección de tu lugar de procedencia o donde vive tu núcleo familiar. Después, agrega la dirección relacionado con tus estudios. No te preocupes sin ambas son la misma, en algunos casos puede ser así."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 136,
+    "page number" : 6,
+    "bounding box" : [ 85.104, 172.647, 436.207, 185.59 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "No olvides llenar todos los campos que se te piden, ya que son obligatorios."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 199,
+    "page number" : 7,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile16.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 205,
+    "page number" : 7,
+    "bounding box" : [ 140.16, 484.14, 449.1, 730.92 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile17.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 201,
+    "page number" : 7,
+    "bounding box" : [ 218.57, 450.804, 376.848, 460.23 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 6 – Registro de Dirección Estudiante"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 206,
+    "page number" : 7,
+    "bounding box" : [ 76.56, 245.1, 531.9, 421.92 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile18.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 202,
+    "level" : "5",
+    "page number" : 7,
+    "bounding box" : [ 237.17, 191.914, 358.187, 201.34 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 209,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 203,
+      "page number" : 7,
+      "bounding box" : [ 237.17, 191.914, 358.187, 201.34 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 7 – Listado de Direcciones",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 200,
+    "page number" : 7,
+    "bounding box" : [ 483.2, 141.83, 537.65, 166.58 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile19.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 204,
+    "page number" : 7,
+    "bounding box" : [ 85.104, 127.527, 478.353, 162.43 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Una vez que completes de llenar todos los campos, presiona el botón de “Siguiente” ubicado en la parte inferior izquierda de la pantalla, para continuar con el proceso."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 207,
+    "page number" : 8,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile20.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 208,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 85.104, 708.647, 510.387, 735.63 ],
+    "heading level" : 4,
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "APARTADO 2 – Datos Académicos: En este apartado deberás de ingresar los datos del colegio del que provienes; así como el o los idiomas que hablas."
+  }, {
+    "type" : "text block",
+    "id" : 213,
+    "page number" : 8,
+    "bounding box" : [ 97.8, 523.285, 524.5, 686.985 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 216,
+      "page number" : 8,
+      "bounding box" : [ 82.44, 493.8, 554.04, 702.36 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile21.png"
+    }, {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 217,
+      "page number" : 8,
+      "bounding box" : [ 98.55, 524.04, 523.75, 686.24 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile22.png"
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 209,
+    "level" : "5",
+    "page number" : 8,
+    "bounding box" : [ 244.49, 120.514, 351.015, 485.31 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 202,
+    "next list id" : 223,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 210,
+      "page number" : 8,
+      "bounding box" : [ 244.49, 475.884, 351.015, 485.31 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 8 – Datos Académicos.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 211,
+        "page number" : 8,
+        "bounding box" : [ 85.104, 426.257, 510.432, 453.24 ],
+        "font" : "Cambria-Bold",
+        "font size" : 11.04,
+        "text color" : "[0.0]",
+        "content" : "APARTADO 3 – Información socioeconómica familiar (parte 1): Asegúrate de completar los datos solicitados correctamente"
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 212,
+      "page number" : 8,
+      "bounding box" : [ 244.49, 120.514, 351.015, 129.94 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 9 – Datos Académicos.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 218,
+    "page number" : 8,
+    "bounding box" : [ 88.92, 179.22, 521.7, 387.12 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile23.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 219,
+    "page number" : 9,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile24.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 220,
+    "page number" : 9,
+    "bounding box" : [ 85.104, 694.727, 510.429, 735.63 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Estructura familiar: Para el registro de la información de los miembros de tu estructura familiar, haz un clic el botón de “Agregar Familiar” y completa todos los campos requeridos."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 221,
+    "page number" : 9,
+    "bounding box" : [ 85.104, 658.847, 510.46, 685.83 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Por cada integrante de tu grupo familiar de convivencia deberás presionar el botón “Guardar” al finalizar su registro."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 236,
+    "page number" : 9,
+    "bounding box" : [ 83.52, 484.86, 504.54, 628.8 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile25.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 222,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 85.104, 433.697, 510.212, 460.68 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Nota: En el caso de estudiantes independientes; debes hacer constar tus datos en la estructura familia"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 223,
+    "level" : "5",
+    "page number" : 9,
+    "bounding box" : [ 239.33, 415.404, 356.055, 424.83 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 209,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 224,
+      "page number" : 9,
+      "bounding box" : [ 239.33, 415.404, 356.055, 424.83 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 10 – Estructura Familiar.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 225,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 85.104, 380.997, 350.307, 393.94 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "NOMBRE DEL REPRESENTANTE LEGAL/ECONÓMICO:"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 226,
+    "page number" : 9,
+    "bounding box" : [ 85.104, 331.197, 510.411, 372.1 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Se considera representante económico a la persona que financie tus gastos de estudios en la universidad. Esta información es importante para determinar si puedes acceder a beneficios del seguro de salud que te provee la universidad."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 227,
+    "page number" : 9,
+    "bounding box" : [ 85.104, 295.437, 510.182, 322.42 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Puedes agregarlo seleccionando desde la estructura familiar tal como se muestra en la imagen (figura 11); o a su vez, agregando de forma manual los datos solicitados (figura 12)."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 228,
+    "page number" : 9,
+    "bounding box" : [ 85.104, 273.477, 370.912, 286.42 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "(Sólo deberá constar una persona como Representante legal)"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 237,
+    "page number" : 9,
+    "bounding box" : [ 101.16, 114.42, 469.5, 248.28 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile26.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 229,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 219.41, 82.358, 375.868, 91.784 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 240,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 230,
+      "page number" : 9,
+      "bounding box" : [ 219.41, 82.358, 375.868, 91.784 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 11. Establecer Representante Legal.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 239,
+    "page number" : 10,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile27.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 248,
+    "page number" : 10,
+    "bounding box" : [ 88.92, 609.3, 497.1, 731.28 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile28.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 240,
+    "level" : "6",
+    "page number" : 10,
+    "bounding box" : [ 222.05, 577.524, 373.335, 586.95 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 229,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 241,
+      "page number" : 10,
+      "bounding box" : [ 222.05, 577.524, 373.335, 586.95 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 12 – Agregar Representante Legal.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 242,
+    "page number" : 10,
+    "bounding box" : [ 85.104, 529.217, 510.397, 556.2 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "ra que la información de este apartado esté completa, debes agregar al menos 2 referencias familiares. Estas personas no deben pertenecer a tu núcleo familiar o vivir contigo."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 249,
+    "page number" : 10,
+    "bounding box" : [ 87.84, 367.62, 484.14, 501.72 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile29.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 243,
+    "page number" : 10,
+    "bounding box" : [ 233.33, 335.944, 362.175, 345.37 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 13 – Referencias Familiares."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 244,
+    "level" : "2",
+    "page number" : 10,
+    "bounding box" : [ 85.104, 265.197, 509.426, 292.18 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 245,
+      "page number" : 10,
+      "bounding box" : [ 85.104, 265.197, 509.426, 292.18 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 4 – Socioeconómica (parte 2): En este apartado debes registrar información relacionada con los ingresos y egresos de tu grupo familiar.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 246,
+    "page number" : 10,
+    "bounding box" : [ 85.104, 187.527, 508.78, 256.3 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresos adicionales: Si existen ingresos adicionales NO especificados en la estructura familiar cómo, por ejemplo: Bono de Desarrollo Humano, pensión de alimentos, rentas de bienes muebles, entre otros, agrégalos haciendo clic en el botón de “Agregar Ingreso”. A continuación, selecciona el tipo de ingreso, escribe el valor correspondiente y haz clic en el botón “Agregar”."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 247,
+    "page number" : 10,
+    "bounding box" : [ 85.104, 165.567, 502.379, 178.51 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Los ingresos que vayas registrando aparecerán listados en la parte inferior de la pantalla."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 250,
+    "page number" : 11,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile30.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 256,
+    "page number" : 11,
+    "bounding box" : [ 154.25, 518.42, 441.0, 735.57 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile31.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 251,
+    "page number" : 11,
+    "bounding box" : [ 220.49, 499.644, 374.853, 509.07 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 13 – Ingresos adicionales del hogar"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 252,
+    "page number" : 11,
+    "bounding box" : [ 85.104, 450.017, 510.527, 477.0 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Gastos del Hogar: Para registrar los gastos del hogar, haz clic en el botón de “Agregar Gasto”. Selecciona el tipo de gasto, escribe el valor y da clic en el botón “Guardar”."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 253,
+    "page number" : 11,
+    "bounding box" : [ 85.104, 428.057, 488.163, 441.0 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Los gastos que vayas agregando aparecerán en la parte inferior derecha de la pantalla."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 257,
+    "page number" : 11,
+    "bounding box" : [ 155.15, 204.26, 440.03, 419.26 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile32.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 254,
+    "level" : "5",
+    "page number" : 11,
+    "bounding box" : [ 242.21, 153.274, 353.145, 162.7 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 261,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 255,
+      "page number" : 11,
+      "bounding box" : [ 242.21, 153.274, 353.145, 162.7 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 14 – Listado de Egresos",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 258,
+    "page number" : 12,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile33.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 259,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 85.104, 722.567, 286.973, 735.51 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "APARTADO 5 – Información de Vivienda"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 260,
+    "page number" : 12,
+    "bounding box" : [ 85.104, 686.687, 510.208, 713.67 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Servicios Básicos: Haz clic en el botón “Agregar Servicio” y selecciona los servicios básicos con los que cuenta la vivienda donde reside tu núcleo familiar."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 275,
+    "page number" : 12,
+    "bounding box" : [ 149.9, 455.32, 445.09, 677.82 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile34.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 261,
+    "level" : "5",
+    "page number" : 12,
+    "bounding box" : [ 244.97, 424.764, 350.422, 434.19 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 254,
+    "next list id" : 277,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 262,
+      "page number" : 12,
+      "bounding box" : [ 244.97, 424.764, 350.422, 434.19 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 15 – Servicios Básicos",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 264,
+    "page number" : 12,
+    "bounding box" : [ 85.104, 361.197, 510.343, 402.1 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Patrimonio Familiar: Seleccione obligatoriamente los bienes que posee tu grupo familiar. Debes marcar al menos 8 opciones (por ejemplo: televisor, refrigerador, lavadora, vehículo)."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 268,
+    "page number" : 12,
+    "bounding box" : [ 85.104, 311.517, 510.244, 352.42 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Para registrar cada bien, haz clic en el botón “Agregar Patrimonio Familiar” selecciona el bien correspondiente y luego haz clic en “Guardar”. Repite este proceso por cada opción que elijas."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 272,
+    "page number" : 12,
+    "bounding box" : [ 85.104, 261.717, 510.402, 302.62 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "NOTA: No puedes seleccionar simultáneamente las opciones “Si tiene” y “No tiene” para un mismo bien, Ejemplo “Si eliges, la opción “Si tiene lavadora”, no debes marcar “No tiene lavadora”"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 276,
+    "page number" : 13,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile35.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 281,
+    "page number" : 13,
+    "bounding box" : [ 137.76, 441.42, 405.18, 731.76 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile36.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 277,
+    "level" : "5",
+    "page number" : 13,
+    "bounding box" : [ 238.85, 394.144, 356.531, 403.57 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 261,
+    "next list id" : 284,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 278,
+      "page number" : 13,
+      "bounding box" : [ 238.85, 394.144, 356.531, 403.57 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 16 – Patrimonio Familiar",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 279,
+    "page number" : 13,
+    "bounding box" : [ 85.104, 308.757, 510.429, 349.66 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Información de la vivienda: En este apartado debes registrar los datos correspondientes a la vivienda donde reside tu núcleo familiar, no a una residencia universitaria ni al lugar donde vives temporalmente por tus estudios presenciales."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 280,
+    "page number" : 13,
+    "bounding box" : [ 85.104, 251.037, 510.421, 299.86 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Debes completar todos los campos ya que son obligatorios. Importante: Revisa cuidadosamente la información ingresada antes de avanzar al siguiente apartado."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 283,
+    "page number" : 14,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile37.png"
+  }, {
+    "type" : "text block",
+    "id" : 292,
+    "page number" : 14,
+    "bounding box" : [ 97.8, 551.465, 524.5, 722.815 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 295,
+      "page number" : 14,
+      "bounding box" : [ 82.44, 521.99, 554.04, 738.24 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile38.png"
+    }, {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 296,
+      "page number" : 14,
+      "bounding box" : [ 98.55, 552.22, 523.75, 722.07 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile39.png"
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 284,
+    "level" : "5",
+    "page number" : 14,
+    "bounding box" : [ 235.61, 504.204, 359.895, 513.63 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 277,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 285,
+      "page number" : 14,
+      "bounding box" : [ 235.61, 504.204, 359.895, 513.63 ],
+      "font" : "Cambria-Bold",
+      "font size" : 8.04,
+      "text color" : "[0.0]",
+      "content" : "Figura 17 – Información Vivienda.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 286,
+    "level" : "2",
+    "page number" : 14,
+    "bounding box" : [ 85.104, 440.657, 510.324, 481.56 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 306,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 287,
+      "page number" : 14,
+      "bounding box" : [ 85.104, 440.657, 510.324, 481.56 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 6 – Datos Grupo Familiar: En esta sección de salud debes indicar únicamente si tú o algún miembro de tu grupo familiar de convivencia presenta un diagnóstico de una enfermedad grave, rara, huérfana o catastrófica.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 288,
+    "page number" : 14,
+    "bounding box" : [ 85.104, 404.897, 510.407, 431.88 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Caso contrario, selecciona la opción ninguna “Ninguna enfermedad”. Si eliges esta opción, en el campo “Diagnóstico” debes escribir “No aplica”."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 289,
+    "page number" : 14,
+    "bounding box" : [ 85.104, 368.997, 510.36, 395.98 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "La información debe ser completada de manera obligatoria. Utiliza los botones “Enfermedad Estudiante” o “Enfermedad Familiar”, según corresponda."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 297,
+    "page number" : 14,
+    "bounding box" : [ 80.52, 214.14, 552.66, 335.04 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile40.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 290,
+    "page number" : 14,
+    "bounding box" : [ 186.89, 160.714, 408.525, 170.14 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 18 – Registro de Enfermedades Estudiante y familiar."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 291,
+    "level" : "Subtitle",
+    "page number" : 14,
+    "bounding box" : [ 85.104, 81.811, 510.463, 133.39 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Discapacidades: Debes registrar una discapacidad tuya o de algún miembro de tu grupo familiar conviviente únicamente si ha sido calificada por el Ministerio de Salud Pública, con una valoración igual o superior al 30% y cuenta con la certificación o documento oficial que respalde esta condición."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 298,
+    "page number" : 15,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile41.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 299,
+    "page number" : 15,
+    "bounding box" : [ 85.104, 709.727, 510.166, 735.63 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "En caso de registrar una discapacidad, asegúrate de proporcionar correctamente la siguiente información:"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 300,
+    "level" : "4",
+    "page number" : 15,
+    "bounding box" : [ 103.1, 657.047, 279.579, 695.79 ],
+    "numbering style" : "unordered",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 301,
+      "page number" : 15,
+      "bounding box" : [ 103.1, 682.847, 279.579, 695.79 ],
+      "font" : "SymbolMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "• Número de carné de discapacidad",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 302,
+      "page number" : 15,
+      "bounding box" : [ 103.1, 670.007, 220.074, 682.95 ],
+      "font" : "SymbolMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "• Tipo de discapacidad",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 303,
+      "page number" : 15,
+      "bounding box" : [ 103.1, 657.047, 248.866, 669.99 ],
+      "font" : "SymbolMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "• Porcentaje de discapacidad",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 304,
+    "page number" : 15,
+    "bounding box" : [ 85.104, 604.367, 510.122, 643.11 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Importante: Si aún no cuentas con el carné al momento de llenar el formulario, deberás obtenerlo y actualizar la información una vez lo tengas, para que pueda ser validada correctamente por la institución."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 309,
+    "page number" : 15,
+    "bounding box" : [ 82.44, 506.9, 554.04, 593.04 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile42.png"
+  }, {
+    "type" : "text block",
+    "id" : 310,
+    "page number" : 15,
+    "bounding box" : [ 97.8, 536.355, 524.5, 577.655 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 313,
+      "page number" : 15,
+      "bounding box" : [ 98.55, 537.1, 523.75, 576.9 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile43.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 305,
+    "page number" : 15,
+    "bounding box" : [ 225.17, 467.484, 370.335, 476.91 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 19 – Registro de Discapacidades."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 306,
+    "level" : "2",
+    "page number" : 15,
+    "bounding box" : [ 85.104, 403.937, 507.285, 444.84 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 286,
+    "next list id" : 320,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 307,
+      "page number" : 15,
+      "bounding box" : [ 85.104, 403.937, 507.285, 444.84 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 7 – Dinámica Familiar: En esta sección debes responder todas las preguntas que se presentan a continuación. Todas las respuestas son obligatorias para poder continuar.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 314,
+    "page number" : 15,
+    "bounding box" : [ 97.8, 160.885, 524.5, 382.285 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 317,
+      "page number" : 15,
+      "bounding box" : [ 82.44, 131.4, 554.04, 397.68 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile44.png"
+    }, {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 318,
+      "page number" : 15,
+      "bounding box" : [ 98.55, 161.63, 523.75, 381.53 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile45.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 308,
+    "page number" : 15,
+    "bounding box" : [ 241.49, 112.474, 354.015, 121.9 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 20 – Dinámica Familiar."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 319,
+    "page number" : 16,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile46.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 320,
+    "level" : "2",
+    "page number" : 16,
+    "bounding box" : [ 85.104, 261.477, 510.453, 735.63 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 306,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 321,
+      "page number" : 16,
+      "bounding box" : [ 85.104, 708.647, 503.565, 735.63 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 8 – Adaptación al Medio Universitario: En esta sección deberás responder la siguiente pregunta ¿Este es tu primer semestre en la universidad?",
+      "kids" : [ {
+        "type" : "list",
+        "pdfua_tag" : "L",
+        "id" : 322,
+        "level" : "3",
+        "page number" : 16,
+        "bounding box" : [ 103.1, 657.647, 506.141, 699.759 ],
+        "numbering style" : "unordered",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 323,
+          "page number" : 16,
+          "bounding box" : [ 103.1, 686.207, 396.987, 699.759 ],
+          "font" : "SymbolMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "• Si tu respuesta es “NO” sólo se mostrará una sola pregunta.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 324,
+          "page number" : 16,
+          "bounding box" : [ 103.1, 657.647, 506.141, 685.239 ],
+          "font" : "SymbolMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "• Si tu respuesta es “SI” tendrás que responder cuatro preguntas adicionales y todas son obligatorias.",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 325,
+        "page number" : 16,
+        "bounding box" : [ 212.45, 360.904, 382.87, 370.33 ],
+        "font" : "Cambria-Bold",
+        "font size" : 8.04,
+        "text color" : "[0.0]",
+        "content" : "Figura 21 – Adaptación al Medio Universitario."
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 326,
+      "page number" : 16,
+      "bounding box" : [ 85.104, 261.477, 510.453, 338.26 ],
+      "font" : "Cambria-Bold",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "APARTADO 9 – Documentos: Es momento de cargar los documentos requeridos. Asegúrate de verificar que los archivos tengan buena calidad, sean legibles y cumplan con los nombres y formatos indicados, ya que esta información es importante para tu expediente académico. Los documentos son los siguientes:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 333,
+    "page number" : 16,
+    "bounding box" : [ 97.8, 408.905, 524.5, 614.105 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 336,
+      "page number" : 16,
+      "bounding box" : [ 82.44, 379.45, 554.04, 629.52 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile47.png"
+    }, {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 337,
+      "page number" : 16,
+      "bounding box" : [ 98.55, 409.65, 523.75, 613.35 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile48.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 327,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 103.1, 239.757, 245.681, 252.7 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "1. Documento de identidad"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 328,
+    "level" : "3",
+    "page number" : 16,
+    "bounding box" : [ 103.1, 196.767, 510.349, 238.789 ],
+    "numbering style" : "unordered",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 329,
+      "page number" : 16,
+      "bounding box" : [ 103.1, 225.237, 297.293, 238.789 ],
+      "font" : "SymbolMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "• Ecuatorianos: copia de cédula a color.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 330,
+      "page number" : 16,
+      "bounding box" : [ 103.1, 196.767, 510.349, 224.239 ],
+      "font" : "SymbolMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "• Extranjeros: copia de pasaporte, carné refugiado vigente o visa de estudios actualizada, todos a color.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 331,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 103.1, 182.847, 173.408, 195.79 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "2. Fotografía"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 332,
+    "level" : "4",
+    "page number" : 16,
+    "bounding box" : [ 103.1, 168.207, 384.203, 181.759 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "• Tamaño carnet actualizada a color y con fondo blanco."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 338,
+    "page number" : 17,
+    "bounding box" : [ -4.95, -4.93, 600.54, 846.77 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile49.png"
+  }, {
+    "type" : "text block",
+    "id" : 344,
+    "page number" : 17,
+    "bounding box" : [ 85.8, 517.665, 512.5, 734.815 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 347,
+      "page number" : 17,
+      "bounding box" : [ 86.55, 518.42, 511.75, 734.07 ],
+      "alt_source" : "missing",
+      "source" : "manual_usuario_estudiante_images/imageFile50.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 339,
+    "page number" : 17,
+    "bounding box" : [ 235.73, 498.204, 359.775, 507.63 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 22 – Carga de Documentos."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 340,
+    "page number" : 17,
+    "bounding box" : [ 85.104, 449.897, 510.355, 476.88 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Mantén el siguiente formato para nombrar los documentos Archivo Requerido – Nombre, Apellido."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 341,
+    "page number" : 17,
+    "bounding box" : [ 85.104, 427.937, 479.665, 440.88 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Una vez que hayas cargado todos los documentos, haz clic en el botón “Enviar Ficha”"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 348,
+    "page number" : 17,
+    "bounding box" : [ 231.0, 326.22, 365.22, 406.2 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile51.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 342,
+    "page number" : 17,
+    "bounding box" : [ 85.104, 253.677, 510.424, 280.66 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Posteriormente, se mostrará un mensaje de confirmación. Haz clic en el botón Aceptar y aparecerá el mensaje de confirmación de registro satisfactorio"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 349,
+    "page number" : 17,
+    "bounding box" : [ 346.0, 118.82, 487.85, 217.67 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile52.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 350,
+    "page number" : 17,
+    "bounding box" : [ 85.05, 120.22, 240.3, 212.07 ],
+    "alt_source" : "missing",
+    "source" : "manual_usuario_estudiante_images/imageFile53.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 343,
+    "page number" : 17,
+    "bounding box" : [ 174.77, 86.678, 420.573, 96.104 ],
+    "font" : "Cambria-Bold",
+    "font size" : 8.04,
+    "text color" : "[0.0]",
+    "content" : "Figura 23 – Mensaje de aceptación y confirmación registro de ficha."
+  } ]
+}

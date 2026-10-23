@@ -1,0 +1,647 @@
+{
+  "file name" : "Información sobre representatividad estudiantil y canales de participación.pdf",
+  "number of pages" : 1,
+  "author" : "Andres Carranco Yepez",
+  "title" : null,
+  "creation date" : "D:20261018113822-05'00'",
+  "modification date" : "D:20261018113822-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 2,
+    "page number" : 1,
+    "bounding box" : [ 85.05, 774.17, 208.5, 830.82 ],
+    "alt_source" : "missing",
+    "source" : "Información sobre representatividad estudiantil y canales de participación_images/imageFile1.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 3,
+    "page number" : 1,
+    "bounding box" : [ 228.65, 778.07, 366.65, 825.57 ],
+    "alt_source" : "missing",
+    "source" : "Información sobre representatividad estudiantil y canales de participación_images/imageFile2.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ 377.23, 775.296, 510.311, 805.638 ],
+    "font" : "Arial-ItalicMT",
+    "font size" : 8.04,
+    "text color" : "[0.502]",
+    "content" : "Yachay Open Science Week, Ideatón Info. sobre representatividad estudiantil"
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 4,
+    "page number" : 1,
+    "bounding box" : [ 85.104, 726.319, 472.44, 765.928 ],
+    "linked content id" : 5,
+    "font" : "Aptos",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Información sobre representatividad estudiantil y canales de participación. Representantes Federación de Estudiantes YT"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 5,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 85.104, 537.19, 510.34, 716.02 ],
+    "number of rows" : 5,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 7,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 700.66, 191.087, 715.54 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 700.879, 121.728, 715.528 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Cargo"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 9,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 700.66, 284.69, 715.54 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 10,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 700.879, 238.682, 715.528 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Nombre"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 11,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 700.66, 509.86, 715.54 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 12,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 700.879, 393.134, 715.528 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Correo Institucional"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 13,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 14,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 656.14, 191.087, 700.66 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 685.639, 146.604, 700.288 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Presidente"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 16,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 656.14, 284.69, 700.66 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 17,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 656.359, 275.198, 700.288 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Ulices Abrahan Chingo Cordova"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 18,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 656.14, 509.86, 700.66 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 19,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 685.639, 468.986, 700.288 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "ulices.chingo@yachyatech.edu.ec"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 21,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 22,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 626.38, 191.087, 656.14 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 23,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 641.239, 168.948, 655.888 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Vicepresidenta"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 24,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 626.38, 284.69, 656.14 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 25,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 626.599, 272.798, 655.888 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Karina Isabella Pazmiño Inca"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 26,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 626.38, 509.86, 656.14 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 27,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 641.239, 479.906, 655.888 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "karina.pazmino@yachyatech.edu.ec"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "id" : 29,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 30,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 596.617, 191.087, 626.38 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 31,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 611.479, 136.236, 626.128 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Tesorero"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 32,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 596.617, 284.69, 626.38 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 33,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 596.839, 268.55, 626.128 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Pedro Emilio Albuja Gómez"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 34,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 596.617, 509.86, 626.38 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 35,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 611.479, 465.65, 626.128 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "pedro.albuja@yachyatech.edu.ec"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "id" : 37,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 38,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 537.67, 191.087, 596.617 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 39,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 581.599, 144.0, 596.248 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Secretaria"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 40,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 537.67, 284.69, 596.617 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 41,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 537.649, 249.998, 596.248 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Doménica Alejandra Valdivieso Vásques"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 42,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 537.67, 509.86, 596.617 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 43,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 566.929, 500.474, 596.248 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "domenica.valdivieso@yachyatech.edu.e c"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 46,
+    "page number" : 1,
+    "bounding box" : [ 85.104, 497.569, 339.552, 512.218 ],
+    "linked content id" : 47,
+    "font" : "Aptos",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Representantes al Consejo Superior Universitario"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 47,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 85.104, 412.03, 510.34, 487.27 ],
+    "number of rows" : 3,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 48,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 49,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 471.91, 191.087, 486.79 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 50,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 472.129, 121.728, 486.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Cargo"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 51,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 471.91, 284.69, 486.79 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 52,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 472.129, 238.682, 486.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Nombre"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 53,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 471.91, 509.86, 486.79 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 54,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 472.129, 393.134, 486.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Correo Institucional"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 55,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 56,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 442.03, 191.087, 471.91 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 57,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 456.889, 136.584, 471.538 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Principal"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 58,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 442.03, 284.69, 471.91 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 59,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 442.249, 272.018, 471.538 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Juan Daniel Vasconez Vela"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 60,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 442.03, 509.86, 471.91 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 61,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 456.889, 474.47, 471.538 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "juan.vasconez@yachyatech.edu.ec"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 63,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 64,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 412.51, 191.087, 442.03 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 65,
+          "page number" : 1,
+          "bounding box" : [ 90.744, 427.129, 128.34, 441.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Alterno"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 66,
+        "page number" : 1,
+        "bounding box" : [ 191.087, 412.51, 284.69, 442.03 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 67,
+          "page number" : 1,
+          "bounding box" : [ 196.37, 412.489, 279.23, 441.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "Luss Karelly Pérez Rodríguez"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 68,
+        "page number" : 1,
+        "bounding box" : [ 284.69, 412.51, 509.86, 442.03 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 69,
+          "page number" : 1,
+          "bounding box" : [ 290.09, 427.129, 453.254, 441.778 ],
+          "font" : "Aptos",
+          "font size" : 12.0,
+          "text color" : "[0.275, 0.471, 0.525]",
+          "content" : "luss.perez@yachyatech.edu.ec"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 71,
+    "page number" : 1,
+    "bounding box" : [ 85.104, 347.429, 269.964, 387.038 ],
+    "font" : "Aptos",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Canales de participación Buzón de demanda estudiantil FEYT"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 72,
+    "page number" : 1,
+    "bounding box" : [ 85.104, 220.559, 509.928, 337.118 ],
+    "font" : "Aptos",
+    "font size" : 12.0,
+    "text color" : "[0.0667, 0.333, 0.8]",
+    "content" : "https://l.instagram.com/?u=https%3A%2F%2Fforms.office.com%2Fr%2FeizgG54 gLE%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_i n_bio%26fbclid%3DPAb21jcAU3_DtleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBw X2lkDzU2NzA2NzM0MzM1MjQyNwABp7SrjIX8j3t5OrHGBOfbdVh1eEsXkeT5hRNV 3okYpIwdANgcVbafns4u_vLo_aem_oNJ-kxcmVSD4WQYNB_lzrQ&e=AUBTaoTHnzs_ImrYKny84RWB4T_Fgid2vK2FFCmkL5u6Y7yxSvuSzrUhxrgpg7sSAZ0GWnBThH cRTn-P6iWfn9VYIz2RzbK6JC987XbXUm70tM0lW1lAV_W9IrghnfRpA"
+  } ]
+}

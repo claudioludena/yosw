@@ -1,0 +1,480 @@
+{
+  "file name" : "Visualización Horarios MiYT.pdf",
+  "number of pages" : 4,
+  "author" : "Lizeth Daniela Reinoso Calero",
+  "title" : null,
+  "creation date" : "D:20250401191857-05'00'",
+  "modification date" : "D:20250401191857-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ -5.5, -4.73, 599.99, 846.97 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 2,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 145.82, 728.165, 478.066, 743.85 ],
+    "heading level" : 1,
+    "font" : "Arial-BoldMT",
+    "font size" : 14.04,
+    "text color" : "[0.0]",
+    "content" : "Instrucciones para Visualizar el Horario de Clases"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 3,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 113.42, 688.997, 199.508, 702.403 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Pasos a Seguir"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 5,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 113.42, 651.04, 388.646, 663.374 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 17,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 6,
+      "page number" : 1,
+      "bounding box" : [ 113.42, 651.04, 388.646, 663.374 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 1: Ingreso al Sistema de Gestión Académica MiYT",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 8,
+    "page number" : 1,
+    "bounding box" : [ 113.42, 613.12, 510.334, 638.054 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresar al sistema de gestión académica MiYT mediante el siguiente enlace: https://autoservicio.yachaytech.edu.ec"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 12,
+    "page number" : 1,
+    "bounding box" : [ 113.4, 390.38, 538.6, 600.48 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile2.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 13,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 113.85, 457.88, 189.15, 527.78 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 14,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 15,
+        "page number" : 1,
+        "bounding box" : [ 114.6, 458.63, 188.4, 527.03 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 10,
+    "page number" : 1,
+    "bounding box" : [ 113.42, 327.11, 510.592, 377.364 ],
+    "linked content id" : 12,
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresar con el usuario y contraseña de la cuenta única. Se recuerda que su usuario es su correo electrónico institucional sin tomar en cuenta la parte del dominio: Primer Nombre.Primer Apellido (Ejemplo.: si tu correo electrónico es juan.lopez@yachaytech.edu.ec, tu cuenta de usuario solo sería: juan.lopez)."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 16,
+    "page number" : 2,
+    "bounding box" : [ -5.95, -4.88, 599.55, 846.82 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile3.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 17,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 113.42, 718.84, 510.416, 756.494 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 5,
+    "next list id" : 33,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 18,
+      "page number" : 2,
+      "bounding box" : [ 113.42, 718.84, 510.416, 756.494 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 2: Seleccionar la pestaña “Inscripciones”, luego en el ítem “Plan Académico” y escoger el plan que aparece (Plan de estudios). Podrás verificar que la carrera que asignaste",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 21,
+    "page number" : 2,
+    "bounding box" : [ 113.4, 531.12, 521.14, 706.27 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile4.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 23,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 160.025, 648.595, 229.325, 668.245 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "next table id" : 26,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 24,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 25,
+        "page number" : 2,
+        "bounding box" : [ 161.15, 649.72, 228.2, 667.12 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 26,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 289.725, 633.495, 359.025, 653.145 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "previous table id" : 23,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 27,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 28,
+        "page number" : 2,
+        "bounding box" : [ 290.85, 634.62, 357.9, 652.02 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 29,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 243.075, 575.395, 379.125, 592.045 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 30,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 31,
+        "page number" : 2,
+        "bounding box" : [ 244.2, 576.52, 378.0, 590.92 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 20,
+    "page number" : 2,
+    "bounding box" : [ 113.42, 492.73, 510.516, 517.784 ],
+    "linked content id" : 21,
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Esta acción despliega el plan académico correspondiente para el estudiante, tal como se muestra en el siguiente ejemplo:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 22,
+    "page number" : 2,
+    "bounding box" : [ 113.4, 295.93, 538.6, 480.18 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile5.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 32,
+    "page number" : 3,
+    "bounding box" : [ -5.95, -4.88, 599.55, 846.82 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile6.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 33,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 113.42, 744.16, 466.369, 756.494 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 17,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 34,
+      "page number" : 3,
+      "bounding box" : [ 113.42, 744.16, 466.369, 756.494 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 3: Seleccionar la opción “Inscripción” ubicada en el lado izquierdo:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 39,
+    "page number" : 3,
+    "bounding box" : [ 113.4, 525.03, 533.7, 731.57 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile7.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 41,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 113.575, 540.345, 174.325, 555.195 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 42,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 43,
+        "page number" : 3,
+        "bounding box" : [ 114.7, 541.47, 173.2, 554.07 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 36,
+    "page number" : 3,
+    "bounding box" : [ 113.42, 499.21, 283.359, 511.544 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Escoger la opción de “Ver horario”:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 40,
+    "page number" : 3,
+    "bounding box" : [ 113.4, 366.98, 538.6, 486.63 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile8.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 44,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 111.975, 384.805, 156.525, 400.555 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 45,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 46,
+        "page number" : 3,
+        "bounding box" : [ 113.1, 385.93, 155.4, 399.43 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 37,
+    "page number" : 3,
+    "bounding box" : [ 113.42, 328.55, 510.705, 353.604 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Te aparecerá el mensaje que tienes una lista de suspensión por “MATRICULA BACK OFFICE”, pero el sistema sí te permitirá visualizar tu horario."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 38,
+    "page number" : 3,
+    "bounding box" : [ 113.42, 303.35, 414.979, 315.684 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Verificar que el período seleccionado sea “2025/Semestre01”:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 47,
+    "page number" : 4,
+    "bounding box" : [ -5.95, -4.88, 599.55, 846.82 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile9.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 49,
+    "page number" : 4,
+    "bounding box" : [ 113.4, 497.72, 538.6, 756.87 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile10.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 54,
+    "level" : "6",
+    "page number" : 4,
+    "bounding box" : [ 111.975, 629.895, 209.325, 644.745 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 55,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 56,
+        "page number" : 4,
+        "bounding box" : [ 113.1, 631.02, 208.2, 643.62 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 48,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 113.42, 459.37, 510.319, 484.304 ],
+    "heading level" : 3,
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Se puede seleccionar la opción de “ficha” para visualizar el horario de manera gráfica:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 50,
+    "page number" : 4,
+    "bounding box" : [ 113.4, 196.57, 538.6, 446.77 ],
+    "alt_source" : "missing",
+    "source" : "Visualización Horarios MiYT_images/imageFile11.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 51,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 127.025, 371.545, 150.175, 385.195 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 52,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 53,
+        "page number" : 4,
+        "bounding box" : [ 128.15, 372.67, 149.05, 384.07 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  } ]
+}

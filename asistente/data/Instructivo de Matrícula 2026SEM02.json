@@ -1,0 +1,1630 @@
+{
+  "file name" : "Instructivo de Matrícula 2026SEM02.pdf",
+  "number of pages" : 8,
+  "author" : "Lizeth Daniela Reinoso Calero",
+  "title" : null,
+  "creation date" : "D:20250130145606-05'00'",
+  "modification date" : "D:20250130145606-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 2,
+    "page number" : 1,
+    "bounding box" : [ -11.5, -4.88, 594.0, 846.82 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile1.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ -2.0, 1.17, 591.95, 840.72 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile2.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 3,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 204.05, 704.237, 412.766, 717.643 ],
+    "heading level" : 1,
+    "font" : "Arial-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Instructivo de Matriculación en MIYT"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 4,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 85.104, 477.13, 502.462, 691.934 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 5,
+      "page number" : 1,
+      "bounding box" : [ 85.104, 679.6, 157.602, 691.934 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "1. Objetivo",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 6,
+        "page number" : 1,
+        "bounding box" : [ 113.42, 616.36, 529.351, 666.614 ],
+        "font" : "ArialMT",
+        "font size" : 11.04,
+        "text color" : "[0.0]",
+        "content" : "Orientar a los todos los estudiantes de tercer nivel de las carreras de la Universidad de Investigación de Tecnología Experimental Yachay (UITEY) en los pasos que se deben seguir para realizar su registro e inscripción de asignaturas, utilizando el sistema de gestión académica MiYT."
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 7,
+      "page number" : 1,
+      "bounding box" : [ 85.104, 591.04, 155.67, 603.374 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "2. Alcance",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 8,
+        "page number" : 1,
+        "bounding box" : [ 113.42, 553.09, 531.313, 578.054 ],
+        "font" : "ArialMT",
+        "font size" : 11.04,
+        "text color" : "[0.0]",
+        "content" : "Aplica para el registro e inscripción de asignaturas para la matriculación online utilizando el sistema MiYT por parte del estudiantado de carrera de la Universidad."
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 9,
+      "page number" : 1,
+      "bounding box" : [ 85.104, 502.45, 502.462, 540.104 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "3. Responsable del Documento El responsable del instructivo es la Dirección General de Servicios Académicos.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 10,
+      "page number" : 1,
+      "bounding box" : [ 85.104, 477.13, 178.953, 489.464 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "4. Definiciones",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 11,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 113.42, 147.5, 531.94, 464.47 ],
+    "number of rows" : 3,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 12,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 13,
+        "page number" : 1,
+        "bounding box" : [ 113.9, 442.03, 203.687, 463.99 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 136.94, 446.77, 180.537, 459.104 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[1.0]",
+          "content" : "Término"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 16,
+        "page number" : 1,
+        "bounding box" : [ 203.687, 442.03, 531.46, 463.99 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 18,
+          "page number" : 1,
+          "bounding box" : [ 341.11, 446.77, 394.422, 459.104 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[1.0]",
+          "content" : "Definición"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 19,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 20,
+        "page number" : 1,
+        "bounding box" : [ 113.9, 289.725, 203.687, 442.03 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 21,
+          "page number" : 1,
+          "bounding box" : [ 123.14, 359.51, 194.204, 371.844 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Matriculación"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 22,
+        "page number" : 1,
+        "bounding box" : [ 203.687, 289.725, 531.46, 442.03 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 23,
+          "page number" : 1,
+          "bounding box" : [ 209.09, 289.932, 526.481, 441.344 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Acto de carácter académico-administrativo, mediante el cual una persona adquiere la condición de estudiante, a través del registro de las asignaturas, cursos o sus equivalentes, en un período académico determinado y conforme a los procedimientos internos de una IES. La condición de estudiante se mantendrá hasta el inicio del nuevo período académico o hasta su titulación. (Art. 70 RRA). Asimismo, los estudiantes con pérdida de gratuidad se encontrarán legalmente matriculados solo una vez que realicen el pago de los valores respectivos en los plazos definidos; si no ejecutan el pago, las asignaturas serán dadas de baja según corresponda."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 24,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 25,
+        "page number" : 1,
+        "bounding box" : [ 113.9, 147.98, 203.687, 289.725 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 26,
+          "page number" : 1,
+          "bounding box" : [ 129.5, 199.79, 187.845, 237.324 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Sistema de Gestión Académica"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 27,
+        "page number" : 1,
+        "bounding box" : [ 203.687, 147.98, 531.46, 289.725 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 28,
+          "page number" : 1,
+          "bounding box" : [ 209.09, 264.11, 526.334, 289.044 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Sistema informático que permite registrar y consultar información de los estudiantes y docentes en los siguientes ámbitos:"
+        }, {
+          "type" : "list",
+          "pdfua_tag" : "L",
+          "id" : 29,
+          "level" : "1",
+          "page number" : 1,
+          "bounding box" : [ 209.09, 148.04, 526.476, 264.109 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "id" : 30,
+            "page number" : 1,
+            "bounding box" : [ 209.09, 238.07, 526.347, 264.109 ],
+            "font" : "SymbolMT",
+            "font size" : 11.04,
+            "text color" : "[0.0]",
+            "content" : "• Administración de cuentas de estudiantes, docentes y administrativos.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "id" : 31,
+            "page number" : 1,
+            "bounding box" : [ 209.09, 186.71, 526.476, 238.069 ],
+            "font" : "SymbolMT",
+            "font size" : 11.04,
+            "text color" : "[0.0]",
+            "content" : "• Registro de información en los procesos académicos como: matrículas, homologaciones, cambios de carrera, cambios de IES, asignación de planes académicos, calificaciones, retiros, listas de suspensión (reingresos, terceras matrículas, etc.).",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "pdfua_tag" : "LI",
+            "id" : 32,
+            "page number" : 1,
+            "bounding box" : [ 209.09, 148.04, 526.444, 186.679 ],
+            "font" : "SymbolMT",
+            "font size" : 11.04,
+            "text color" : "[0.0]",
+            "content" : "• Planificación Académica: creación del calendario académico, asignaturas (prerrequisitos y/o correquisitos), gestión de instalaciones, horarios de clases, etc.",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 33,
+    "page number" : 2,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile3.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 34,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 85.104, 717.4, 180.764, 729.734 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "5. Abreviaturas"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 35,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 113.18, 560.23, 531.7, 704.74 ],
+    "number of rows" : 6,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 36,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 37,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 678.94, 212.447, 704.26 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 39,
+          "page number" : 2,
+          "bounding box" : [ 132.38, 685.36, 193.586, 697.694 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[1.0]",
+          "content" : "Abreviatura"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 40,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 678.94, 531.22, 704.26 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 42,
+          "page number" : 2,
+          "bounding box" : [ 345.31, 685.36, 398.622, 697.694 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[1.0]",
+          "content" : "Definición"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 43,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 44,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 658.42, 212.447, 678.94 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 45,
+          "page number" : 2,
+          "bounding box" : [ 147.02, 662.32, 178.871, 674.654 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "DGSA"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 46,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 658.42, 531.22, 678.94 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 47,
+          "page number" : 2,
+          "bounding box" : [ 217.85, 662.32, 434.419, 674.654 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Dirección General de Servicios Académicos."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 48,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 49,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 638.02, 212.447, 658.42 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 50,
+          "page number" : 2,
+          "bounding box" : [ 146.66, 641.92, 179.096, 654.254 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "DGBU"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 51,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 638.02, 531.22, 658.42 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 52,
+          "page number" : 2,
+          "bounding box" : [ 217.85, 641.92, 438.019, 654.254 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Dirección General de Bienestar Universitario."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "id" : 53,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 54,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 612.22, 212.447, 638.02 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 55,
+          "page number" : 2,
+          "bounding box" : [ 149.78, 618.76, 176.188, 631.094 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "MiYT"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 56,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 612.22, 531.22, 638.02 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 57,
+          "page number" : 2,
+          "bounding box" : [ 217.85, 612.4, 526.142, 637.334 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Sistema informático para gestión académica de la UITEY (online)."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "id" : 58,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 59,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 586.417, 212.447, 612.22 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 60,
+          "page number" : 2,
+          "bounding box" : [ 150.98, 592.96, 174.791, 605.294 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "RRA"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 61,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 586.417, 531.22, 612.22 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 62,
+          "page number" : 2,
+          "bounding box" : [ 217.85, 586.6, 526.101, 611.534 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Reglamento de Régimen Académico emitido por el Consejo de Educación Superior."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "id" : 63,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 64,
+        "page number" : 2,
+        "bounding box" : [ 113.66, 560.71, 212.447, 586.417 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 65,
+          "page number" : 2,
+          "bounding box" : [ 146.66, 567.16, 179.096, 579.494 ],
+          "font" : "Arial-BoldMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "UITEY"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 66,
+        "page number" : 2,
+        "bounding box" : [ 212.447, 560.71, 531.22, 586.417 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 67,
+          "page number" : 2,
+          "bounding box" : [ 217.85, 560.77, 526.098, 585.734 ],
+          "font" : "ArialMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "Universidad de Investigación en Tecnología Experimental Yachay."
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 68,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 85.104, 534.97, 243.118, 547.304 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "6. Instrucciones de Trabajo"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 69,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 113.42, 305.75, 531.842, 521.984 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 94,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 70,
+      "page number" : 2,
+      "bounding box" : [ 113.42, 471.73, 531.842, 521.984 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.1 Para el proceso de matriculación en la UITEY, se pone a disposición de los estudiantes la plataforma informática MiYT, en la cual se pueden registrar, seleccionar e inscribir las asignaturas correspondientes ofertadas para el período académico a iniciar.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 71,
+      "page number" : 2,
+      "bounding box" : [ 113.42, 446.41, 245.108, 458.744 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.2 Tener en cuenta que:",
+      "kids" : [ {
+        "type" : "list",
+        "pdfua_tag" : "L",
+        "id" : 72,
+        "level" : "5",
+        "page number" : 2,
+        "bounding box" : [ 141.74, 419.564, 525.11, 446.409 ],
+        "numbering style" : "unordered",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 73,
+          "page number" : 2,
+          "bounding box" : [ 141.74, 432.884, 498.197, 446.409 ],
+          "font" : "SymbolMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "• El acceso al sistema es mediante la cuenta única de los estudiantes;",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 74,
+          "page number" : 2,
+          "bounding box" : [ 141.74, 419.564, 525.11, 433.089 ],
+          "font" : "SymbolMT",
+          "font size" : 11.04,
+          "text color" : "[0.0]",
+          "content" : "• Se recomienda utilizar los navegadores: Google Chrome y Mozilla Firefox.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 75,
+      "page number" : 2,
+      "bounding box" : [ 113.42, 368.99, 531.826, 406.664 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.3 De no seguir el estricto cumplimiento del instructivo y, resultado de ello el estudiante se inscribiese en asignaturas que no le corresponden, el estudiante será el responsable directo de las consecuencias derivadas de esa acción.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 76,
+        "page number" : 2,
+        "bounding box" : [ 113.42, 343.79, 192.345, 356.124 ],
+        "font" : "Arial-BoldMT",
+        "font size" : 11.04,
+        "text color" : "[0.0]",
+        "content" : "Pasos a Seguir"
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 78,
+      "page number" : 2,
+      "bounding box" : [ 113.42, 305.75, 531.726, 330.804 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.4 Los estudiantes deben cumplir los siguientes pasos previos al período de matriculación:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 80,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 141.74, 280.43, 348.657, 292.764 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Paso 1: Llenar la Ficha Socioeconómica"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 82,
+    "page number" : 2,
+    "bounding box" : [ 141.74, 229.932, 531.725, 267.564 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Completar la ficha socioeconómica de acuerdo a los pasos comunicados por la DGBU. Es importante recordar que para realizar el proceso de matrícula su ficha socioeconómica debe estar validada por dicha dirección."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 83,
+    "page number" : 2,
+    "bounding box" : [ 141.74, 179.262, 531.845, 214.967 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "En caso de consultas sobre el estado de la validación de la ficha socioeconómica, pueden comunicarse al correo electrónico trabajosocial@yachaytech.edu.ec"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 85,
+    "page number" : 2,
+    "bounding box" : [ 141.74, 141.32, 531.551, 166.254 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Si el estudiante tratare de realizar su matrícula sin llenar la ficha socioeconómica, el sistema le mostrará un mensaje de impedimento:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 86,
+    "page number" : 3,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile4.png"
+  }, {
+    "type" : "text block",
+    "id" : 99,
+    "page number" : 3,
+    "bounding box" : [ 139.975, 679.295, 531.975, 729.445 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 102,
+      "page number" : 3,
+      "bounding box" : [ 142.13, 669.32, 531.23, 742.665 ],
+      "alt_source" : "missing",
+      "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile5.png"
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 87,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 141.74, 643.84, 416.836, 656.174 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 88,
+      "page number" : 3,
+      "bounding box" : [ 141.74, 643.84, 416.836, 656.174 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 2: Ingreso al Sistema de Gestión Académica MiYT",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 90,
+    "page number" : 3,
+    "bounding box" : [ 141.74, 605.92, 531.485, 630.854 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresar al sistema de gestión académica MiYT mediante el siguiente enlace: https://autoservicio.yachaytech.edu.ec"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 103,
+    "page number" : 3,
+    "bounding box" : [ 166.2, 377.73, 507.15, 593.28 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile6.png"
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 92,
+    "page number" : 3,
+    "bounding box" : [ 141.74, 301.31, 531.742, 364.284 ],
+    "linked content id" : 103,
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Ingresar con el usuario y contraseña de la cuenta única. Se recuerda que el usuario es el mismo de la cuenta del Entorno Virtual de Aprendizaje (Moodle) y/o correo electrónico institucional sin tomar en cuenta el dominio, en la mayoría de casos: Primer Nombre.Primer Apellido (Ejemplo.: si el correo electrónico es juan.lopez@yachaytech.edu.ec, la cuenta de usuario solo sería: juan.lopez)."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 94,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 113.42, 275.99, 500.762, 288.324 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 69,
+    "next list id" : 167,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 95,
+      "page number" : 3,
+      "bounding box" : [ 113.42, 275.99, 500.762, 288.324 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.5 Los estudiantes deben cumplir los siguientes pasos para la matriculación:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 96,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 141.74, 225.35, 531.676, 263.004 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 107,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 97,
+      "page number" : 3,
+      "bounding box" : [ 141.74, 225.35, 531.676, 263.004 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 1: Una vez ingresado a MiYT, hacer clic en la pestaña “INSCRIPCIONES”, luego en el ítem “PLAN ACADÉMICO” y seleccionar el plan académico que aparece (Plan de estudios).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 104,
+    "page number" : 4,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile7.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 111,
+    "page number" : 4,
+    "bounding box" : [ 156.9, 548.77, 508.71, 742.67 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile8.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 113,
+    "level" : "7",
+    "page number" : 4,
+    "bounding box" : [ 163.825, 674.045, 300.025, 700.445 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "next table id" : 116,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 114,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 115,
+        "page number" : 4,
+        "bounding box" : [ 164.95, 675.17, 298.9, 699.32 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 116,
+    "level" : "7",
+    "page number" : 4,
+    "bounding box" : [ 258.275, 632.895, 394.475, 659.295 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "previous table id" : 113,
+    "next table id" : 119,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 117,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 118,
+        "page number" : 4,
+        "bounding box" : [ 259.4, 634.02, 393.35, 658.17 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 119,
+    "level" : "7",
+    "page number" : 4,
+    "bounding box" : [ 265.525, 571.395, 401.725, 597.795 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "previous table id" : 116,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 120,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 121,
+        "page number" : 4,
+        "bounding box" : [ 266.65, 572.52, 400.6, 596.67 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 105,
+    "page number" : 4,
+    "bounding box" : [ 141.74, 510.73, 531.806, 535.784 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Esta acción despliega el plan académico correspondiente para el estudiante, tal como se muestra en el siguiente ejemplo:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 112,
+    "page number" : 4,
+    "bounding box" : [ 135.9, 289.87, 529.91, 498.17 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile9.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 106,
+    "page number" : 4,
+    "bounding box" : [ 141.74, 251.63, 531.331, 276.684 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Las asignaturas marcadas con un visto en la columna “ESTATUS” son aquellas que el estudiante ya aprobó."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 107,
+    "level" : "6",
+    "page number" : 4,
+    "bounding box" : [ 141.74, 175.76, 532.34, 238.644 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 96,
+    "next list id" : 124,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 108,
+      "page number" : 4,
+      "bounding box" : [ 141.74, 175.76, 532.34, 238.644 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 2: El estudiante debe seleccionar las asignaturas en las que desea inscribir y que correspondan a su plan académico. Para ello deberá dar clic en la LUPA de la asignatura, el sistema mostrará los grupos disponibles (horario) para esta asignatura, luego dar clic en “AGREGAR” cuando decida el curso en el que desea inscribirse:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 122,
+    "page number" : 5,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile10.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 127,
+    "page number" : 5,
+    "bounding box" : [ 182.52, 582.84, 491.04, 742.32 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile11.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 128,
+    "page number" : 5,
+    "bounding box" : [ 186.68, 589.67, 487.23, 741.17 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile12.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 139,
+    "level" : "9",
+    "page number" : 5,
+    "bounding box" : [ 182.875, 595.895, 253.125, 693.645 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 140,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 141,
+        "page number" : 5,
+        "bounding box" : [ 184.0, 597.02, 252.0, 692.52 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 129,
+    "page number" : 5,
+    "bounding box" : [ 155.52, 415.92, 489.0, 569.28 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile13.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 130,
+    "page number" : 5,
+    "bounding box" : [ 159.75, 422.77, 485.15, 568.02 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile14.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 131,
+    "page number" : 5,
+    "bounding box" : [ 135.15, 311.77, 530.71, 415.02 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile15.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 133,
+    "level" : "7",
+    "page number" : 5,
+    "bounding box" : [ 413.525, 326.195, 477.225, 345.195 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 134,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 135,
+        "page number" : 5,
+        "bounding box" : [ 414.65, 327.32, 476.1, 344.07 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 123,
+    "page number" : 5,
+    "bounding box" : [ 141.74, 286.19, 345.284, 298.524 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "El sistema mostrará el siguiente mensaje:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 132,
+    "page number" : 5,
+    "bounding box" : [ 134.7, 169.87, 530.28, 273.57 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile16.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 136,
+    "level" : "8",
+    "page number" : 5,
+    "bounding box" : [ 362.525, 180.995, 499.025, 220.145 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 137,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 138,
+        "page number" : 5,
+        "bounding box" : [ 363.65, 182.12, 497.9, 219.02 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 124,
+    "level" : "6",
+    "page number" : 5,
+    "bounding box" : [ 141.74, 119.12, 531.769, 156.774 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 107,
+    "next list id" : 143,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 125,
+      "page number" : 5,
+      "bounding box" : [ 141.74, 119.12, 531.769, 156.774 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 3: Agregar más asignaturas correspondientes a su plan académico. Para seleccionar otra asignatura, el estudiante deberá hacer clic en la sección de “ENLACES” opción “PLAN ACADÉMICO”:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 142,
+    "page number" : 6,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile17.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 148,
+    "page number" : 6,
+    "bounding box" : [ 216.53, 539.28, 428.48, 742.67 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile18.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 151,
+    "level" : "8",
+    "page number" : 6,
+    "bounding box" : [ 206.075, 569.645, 314.88, 596.045 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 152,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 153,
+        "page number" : 6,
+        "bounding box" : [ 207.2, 570.77, 294.838, 592.195 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 154,
+        "page number" : 6,
+        "bounding box" : [ 294.838, 578.19, 314.38, 592.195 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 155,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 156,
+        "page number" : 6,
+        "bounding box" : [ 294.838, 570.77, 314.38, 578.19 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 149,
+    "page number" : 6,
+    "bounding box" : [ 156.58, 363.27, 488.36, 538.67 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile19.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 143,
+    "level" : "6",
+    "page number" : 6,
+    "bounding box" : [ 141.74, 312.47, 531.628, 350.124 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 124,
+    "next list id" : 162,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 144,
+      "page number" : 6,
+      "bounding box" : [ 141.74, 312.47, 531.628, 350.124 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 4: Cuando haya seleccionado todas las asignaturas en las que se desea matricular, en correspondencia a su plan académico, deberá hacer clic en “CONTINUAR CON LA INSCRIPCIÓN”:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 150,
+    "page number" : 6,
+    "bounding box" : [ 141.75, 220.02, 532.39, 312.57 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile20.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 157,
+    "level" : "9",
+    "page number" : 6,
+    "bounding box" : [ 434.525, 233.045, 508.925, 255.195 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 158,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 159,
+        "page number" : 6,
+        "bounding box" : [ 435.65, 234.17, 507.8, 254.07 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 147,
+    "page number" : 6,
+    "bounding box" : [ 141.74, 168.92, 531.573, 206.484 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Posteriormente, deberá verificar la selección. Aquí puede eliminar asignaturas de las seleccionadas anteriormente dando clic en “ELIMINAR”. También puede agregar nuevas asignaturas regresando a la ventana “ANTERIOR”."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 161,
+    "page number" : 7,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile21.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 169,
+    "page number" : 7,
+    "bounding box" : [ 141.75, 604.27, 530.68, 742.67 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile22.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 172,
+    "level" : "6",
+    "page number" : 7,
+    "bounding box" : [ 449.275, 610.895, 486.325, 631.045 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 173,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 174,
+        "page number" : 7,
+        "bounding box" : [ 450.4, 612.02, 485.2, 629.92 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 162,
+    "level" : "6",
+    "page number" : 7,
+    "bounding box" : [ 141.74, 566.32, 531.699, 591.254 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 143,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 163,
+      "page number" : 7,
+      "bounding box" : [ 141.74, 566.32, 531.699, 591.254 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "Paso 5: Finalización del registro. Una vez que se haya validado el listado de asignaturas, hacer clic en la opción “SIGUIENTE”.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 170,
+    "page number" : 7,
+    "bounding box" : [ 141.75, 380.62, 530.72, 553.67 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile23.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 175,
+    "level" : "7",
+    "page number" : 7,
+    "bounding box" : [ 485.875, 389.195, 522.575, 408.045 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 176,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 177,
+        "page number" : 7,
+        "bounding box" : [ 487.0, 390.32, 521.45, 406.92 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 165,
+    "page number" : 7,
+    "bounding box" : [ 141.74, 355.19, 457.859, 367.524 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Se desplegará un mensaje indicando que completó su matrícula:"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 171,
+    "page number" : 7,
+    "bounding box" : [ 141.75, 271.08, 534.89, 342.68 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile24.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 166,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 113.42, 232.67, 224.78, 245.004 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Pérdida de Gratuidad"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 167,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 113.42, 131.48, 531.695, 207.084 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 94,
+    "next list id" : 181,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 168,
+      "page number" : 7,
+      "bounding box" : [ 113.42, 131.48, 531.695, 207.084 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.6 En caso de que el estudiante haya registrado asignaturas que deban reportar un pago por concepto de pérdida de gratuidad temporal o definitiva, por ejemplo, si el estudiante se inscribió en alguna asignatura con segunda matrícula dentro de los pasos descritos en el numeral 6.5, se le enviará un correo electrónico a su cuenta institucional indicándole que tiene valores pendientes por cancelar y con las instrucciones de cómo debe realizará el pago y las fechas de cancelación.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 178,
+    "page number" : 8,
+    "bounding box" : [ -5.4, -3.58, 600.1, 848.12 ],
+    "alt_source" : "missing",
+    "source" : "Instructivo de Matrícula 2026SEM02_images/imageFile25.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 179,
+    "page number" : 8,
+    "bounding box" : [ 141.74, 704.68, 531.596, 742.334 ],
+    "font" : "ArialMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "IMPORTANTE: Para que una matrícula quede legalizada el estudiante debe realizar el pago respectivo dentro de los plazos establecidos para el efecto, los mismos que serán socializados oportunamente."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 180,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 113.42, 679.36, 155.063, 691.694 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Soporte"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 181,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 113.42, 616.12, 531.775, 666.374 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 167,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 182,
+      "page number" : 8,
+      "bounding box" : [ 113.42, 616.12, 531.775, 666.374 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "6.7 Si el estudiante requiere soporte o tiene alguna duda sobre el proceso de matrículas, puede realizarla enviando un correo electrónico a nuestro único canal de atención: soporteacademico@yachaytech.edu.ec (mesa de ayuda de la DGSA).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 184,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 85.104, 590.8, 196.706, 603.134 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "7. Normativa Base"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 185,
+    "level" : "6",
+    "page number" : 8,
+    "bounding box" : [ 113.42, 527.53, 531.666, 577.934 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 186,
+      "page number" : 8,
+      "bounding box" : [ 113.42, 565.6, 324.662, 577.934 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "7.1 Ley Orgánica de Educación Superior;",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 187,
+      "page number" : 8,
+      "bounding box" : [ 113.42, 552.85, 498.884, 565.184 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "7.2 Reglamento de Régimen Académico del Consejo de Educación Superior;",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 188,
+      "page number" : 8,
+      "bounding box" : [ 113.42, 527.53, 531.666, 552.584 ],
+      "font" : "Arial-BoldMT",
+      "font size" : 11.04,
+      "text color" : "[0.0]",
+      "content" : "7.3 Reglamento Interno de Régimen Académico de la Universidad de Investigación de Tecnología Experimental Yachay.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 189,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 85.104, 464.29, 153.153, 501.944 ],
+    "heading level" : 2,
+    "font" : "Arial-BoldMT",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "8. Anexos N/A"
+  } ]
+}

@@ -1,0 +1,65 @@
+{
+  "federacion_estudiantes_feyt": {
+    "nombre_completo": "Federación de Estudiantes Yachay Tech (FEYT)",
+    "directiva": [
+      {
+        "cargo": "Presidente",
+        "nombre": "Ulices Abrahan Chingo Cordova",
+        "correo_institucional": "ulices.chingo@yachaytech.edu.ec",
+        "cargo_en": "President",
+        "cargo_kichwa": "Pushak Apuk"
+      },
+      {
+        "cargo": "Vicepresidenta",
+        "nombre": "Karina Isabella Pazmiño Inca",
+        "correo_institucional": "karina.pazmino@yachaytech.edu.ec",
+        "cargo_en": "Vice President",
+        "cargo_kichwa": "Katik Pushak Apuk (Warmi Katik Pushak)"
+      },
+      {
+        "cargo": "Tesorero",
+        "nombre": "Pedro Emilio Albuja Gómez",
+        "correo_institucional": "pedro.albuja@yachaytech.edu.ec",
+        "cargo_en": "Treasurer",
+        "cargo_kichwa": "Kullkiwakaychik"
+      },
+      {
+        "cargo": "Secretaria",
+        "nombre": "Doménica Alejandra Valdivieso Vásquez",
+        "correo_institucional": "domenica.valdivieso@yachaytech.edu.ec",
+        "cargo_en": "Secretary",
+        "cargo_kichwa": "Warmi Killkakamak"
+      }
+    ]
+  },
+  "consejo_superior_universitario": {
+    "nombre_completo": "Representantes Estudiantiles al Consejo Superior Universitario (CSU)",
+    "representantes": [
+      {
+        "cargo": "Principal",
+        "nombre": "Juan Daniel Vasconez Vela",
+        "correo_institucional": "juan.vasconez@yachaytech.edu.ec",
+        "cargo_en": "Principal",
+        "cargo_kichwa": "Kayak Umachik (Ñawpak Umachik)"
+      },
+      {
+        "cargo": "Alterno",
+        "nombre": "Luss Karelly Pérez Rodríguez",
+        "correo_institucional": "luss.perez@yachaytech.edu.ec",
+        "cargo_en": "Alternate",
+        "cargo_kichwa": "Rantin Umachik"
+      }
+    ]
+  },
+  "canales_participacion": {
+    "buzon_demanda_estudiantil_feyt": {
+      "nombre": "Buzón de Demanda Estudiantil FEYT",
+      "enlace": "https://forms.office.com/r/eizgG54gLE",
+      "descripcion": "Canal oficial para que los estudiantes presenten demandas, quejas o sugerencias a la representación estudiantil.",
+      "nombre_en": "FEYT Student Demand Mailbox",
+      "descripcion_en": "Channel for students to report concerns and requests directly to their representatives.",
+      "nombre_kichwa": "FEYT Yachakukkunapa Mañaykunata Chaskina",
+      "descripcion_kichwa": "Yachakukkuna paykunapa ñapiyuykunata mañaykunatapash paykunapa umachikkunaman chaymantak willachun ñan"
+    }
+  }
+}

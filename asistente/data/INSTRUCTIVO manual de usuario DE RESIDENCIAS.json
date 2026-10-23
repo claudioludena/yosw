@@ -1,0 +1,2058 @@
+{
+  "file name" : "Manual de usuario(Estudiante)-1 (1).pdf",
+  "number of pages" : 15,
+  "author" : "Desarrollo - PC1",
+  "title" : null,
+  "creation date" : "D:20241030090456-05'00'",
+  "modification date" : "D:20241030090456-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H3",
+    "id" : 2,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 99.744, 657.434, 538.348, 699.582 ],
+    "heading level" : 3,
+    "font" : "Cambria-Bold",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "MANUAL DE SISTEMA INTEGRADO DE RESIDENCIAS UNIVERSITARIAS (SIU V2.0) MÓDULO DE RESIDENCIAS TIPO DE ROL DE ESTUDIANTE"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 3,
+    "page number" : 1,
+    "bounding box" : [ 490.06, 645.767, 538.318, 657.444 ],
+    "font" : "Cambria",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "Versión 0.1"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 4,
+    "page number" : 1,
+    "bounding box" : [ 192.05, 589.394, 538.396, 645.702 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Producido por: Unidad de desarrollo de sistemas informáticos Dirección General de Tecnologías de Información y Comunicaciones Universidad de Investigación de Tecnología Experimental Yachay"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 5,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 85.104, 489.79, 538.68, 561.19 ],
+    "number of rows" : 3,
+    "number of columns" : 5,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 7,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 541.51, 538.202, 560.71 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 5,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 1,
+          "bounding box" : [ 261.77, 545.99, 362.03, 556.542 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "HISTORIAL DE CAMBIOS"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 10,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 529.75, 141.622, 541.51 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 1,
+          "bounding box" : [ 97.344, 530.39, 129.618, 540.942 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Versión"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 12,
+        "page number" : 1,
+        "bounding box" : [ 141.622, 529.75, 233.927, 541.51 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 1,
+          "bounding box" : [ 148.46, 530.39, 226.913, 540.942 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "DETALLE / ACCIÓN"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 14,
+        "page number" : 1,
+        "bounding box" : [ 233.927, 529.75, 332.112, 541.51 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 256.61, 530.39, 309.134, 540.942 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Responsable"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 16,
+        "page number" : 1,
+        "bounding box" : [ 332.112, 529.75, 455.135, 541.51 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 17,
+          "page number" : 1,
+          "bounding box" : [ 381.19, 530.63, 406.021, 541.182 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Firma"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 18,
+        "page number" : 1,
+        "bounding box" : [ 455.135, 529.75, 538.202, 541.51 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 19,
+          "page number" : 1,
+          "bounding box" : [ 484.66, 530.39, 508.789, 540.942 ],
+          "font" : "Cambria-Bold",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Fecha"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 20,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 21,
+        "page number" : 1,
+        "bounding box" : [ 85.584, 490.27, 141.622, 529.75 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 22,
+          "page number" : 1,
+          "bounding box" : [ 91.704, 504.59, 135.326, 515.142 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Versión 0.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 23,
+        "page number" : 1,
+        "bounding box" : [ 141.622, 490.27, 233.927, 529.75 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 24,
+          "page number" : 1,
+          "bounding box" : [ 147.14, 504.59, 228.347, 515.142 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Solicitud Residencias"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 25,
+        "page number" : 1,
+        "bounding box" : [ 233.927, 490.27, 332.112, 529.75 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 26,
+          "page number" : 1,
+          "bounding box" : [ 243.53, 504.59, 322.385, 515.142 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "Cristhian Andrade L."
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 27,
+        "page number" : 1,
+        "bounding box" : [ 332.112, 490.27, 455.135, 529.75 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 28,
+        "page number" : 1,
+        "bounding box" : [ 455.135, 490.27, 538.202, 529.75 ],
+        "row number" : 3,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 29,
+          "page number" : 1,
+          "bounding box" : [ 472.42, 504.59, 521.206, 515.142 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.0]",
+          "content" : "29/09/2024"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 30,
+    "page number" : 2,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile2.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 32,
+    "level" : "Doctitle",
+    "page number" : 2,
+    "bounding box" : [ 85.104, 708.55, 209.704, 724.51 ],
+    "heading level" : 1,
+    "font" : "Calibri",
+    "font size" : 15.96,
+    "text color" : "[0.212, 0.373, 0.569]",
+    "content" : "Tabla de contenido"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 33,
+    "page number" : 2,
+    "bounding box" : [ 97.104, 673.514, 538.008, 706.662 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "CONSIDERACIONES: ................................................................................................................................. 3 Antecedentes ............................................................................................................................................... 3"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 34,
+    "page number" : 2,
+    "bounding box" : [ 97.104, 635.354, 538.008, 668.502 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "410-08 Desarrollo y adquisición de software aplicativo ....................................................... 3 Procedimiento............................................................................................................................................. 3"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 35,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 109.1, 253.944, 538.008, 630.342 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 36,
+      "page number" : 2,
+      "bounding box" : [ 109.1, 616.274, 538.008, 630.342 ],
+      "font" : "Cambria",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "1. Ingreso a plataforma sistema integrado de residencias universitarias............... 3",
+      "kids" : [ {
+        "type" : "list",
+        "pdfua_tag" : "L",
+        "id" : 37,
+        "level" : "3",
+        "page number" : 2,
+        "bounding box" : [ 109.1, 559.124, 538.008, 611.382 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 38,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 597.314, 538.008, 611.382 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "1.1. Ingreso al sistema integrado de gestión académica.................................................... 3",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 39,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 578.204, 538.008, 592.272 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "1.2. Ingreso de credenciales .......................................................................................................... 4",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 40,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 559.124, 538.008, 573.192 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "1.3. Pantalla principal del sistema integrado de gestión académica............................. 4",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 41,
+      "page number" : 2,
+      "bounding box" : [ 109.1, 540.044, 538.008, 554.112 ],
+      "font" : "Cambria",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2. M. Residencias............................................................................................................................ 5",
+      "kids" : [ {
+        "type" : "list",
+        "pdfua_tag" : "L",
+        "id" : 42,
+        "level" : "4",
+        "page number" : 2,
+        "bounding box" : [ 109.1, 311.184, 538.008, 535.032 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 43,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 520.964, 538.008, 535.032 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "2.1. Operaciones................................................................................................................................. 5",
+          "kids" : [ {
+            "type" : "list",
+            "pdfua_tag" : "L",
+            "id" : 44,
+            "level" : "5",
+            "page number" : 2,
+            "bounding box" : [ 109.1, 406.464, 538.008, 515.952 ],
+            "numbering style" : "arabic numbers",
+            "number of list items" : 6,
+            "list items" : [ {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 45,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 501.884, 538.008, 515.952 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.1. Módulo del menú desplegable......................................................................................... 5",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 46,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 482.804, 538.008, 496.872 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.2. Pantalla principal de Solicitud Residencia.................................................................. 5",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 47,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 463.724, 538.008, 477.792 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.3. Reserva de plaza ................................................................................................................... 6",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 48,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 444.644, 538.008, 458.712 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.4. Confirmación de reserva de plaza.................................................................................. 6",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 49,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 425.564, 538.008, 439.632 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.5. Selección del tipo de pago. ................................................................................................ 7",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 50,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 406.464, 538.008, 420.532 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.1.6. Aceptación de términos y condiciones......................................................................... 7",
+              "kids" : [ ]
+            } ]
+          } ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 51,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 387.504, 538.008, 401.572 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "2.2. Listado de solicitudes.............................................................................................................. 9",
+          "kids" : [ {
+            "type" : "list",
+            "pdfua_tag" : "L",
+            "id" : 52,
+            "level" : "6",
+            "page number" : 2,
+            "bounding box" : [ 109.1, 330.264, 538.008, 382.492 ],
+            "numbering style" : "arabic numbers",
+            "number of list items" : 3,
+            "list items" : [ {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 53,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 368.424, 538.008, 382.492 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.2.1. Módulo de listado de solicitudes .................................................................................... 9",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 54,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 349.344, 538.008, 363.412 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.2.2. Detalles de solicitud............................................................................................................. 9",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "pdfua_tag" : "LI",
+              "id" : 55,
+              "page number" : 2,
+              "bounding box" : [ 109.1, 330.264, 537.888, 344.332 ],
+              "font" : "Cambria",
+              "font size" : 12.0,
+              "text color" : "[0.0]",
+              "content" : "2.3. Historial-Sanciones ................................................................................................................10",
+              "kids" : [ ]
+            } ]
+          } ]
+        }, {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 56,
+          "page number" : 2,
+          "bounding box" : [ 109.1, 311.184, 537.888, 325.252 ],
+          "font" : "Cambria",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "2.3.1. Historial Libre ......................................................................................................................10",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 57,
+      "page number" : 2,
+      "bounding box" : [ 109.1, 292.104, 537.888, 306.172 ],
+      "font" : "Cambria",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2.3.2. Historial con sanciones ....................................................................................................11",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 58,
+      "page number" : 2,
+      "bounding box" : [ 109.1, 273.024, 537.888, 287.092 ],
+      "font" : "Cambria",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2.4. Solicitud de reubicación .......................................................................................................11",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 59,
+      "page number" : 2,
+      "bounding box" : [ 109.1, 253.944, 537.888, 268.012 ],
+      "font" : "Cambria",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2.5 Solicitud de renuncia a residencia....................................................................................12",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 60,
+    "page number" : 3,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile3.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 61,
+    "page number" : 3,
+    "bounding box" : [ 85.104, 741.794, 332.954, 755.862 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Sistema Integrado De Residencias Universitarias"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 62,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 696.1, 190.236, 709.06 ],
+    "heading level" : 2,
+    "font" : "Calibri",
+    "font size" : 12.96,
+    "text color" : "[0.212, 0.373, 0.569]",
+    "content" : "CONSIDERACIONES:"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 63,
+    "page number" : 3,
+    "bounding box" : [ 85.104, 666.434, 538.184, 694.542 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Navegadores. - Se recomienda usar los navegadores Chrome, Firefox, Opera, Microsoft Edge en sus versiones más actuales."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 64,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 634.66, 158.263, 647.62 ],
+    "heading level" : 2,
+    "font" : "Calibri",
+    "font size" : 12.96,
+    "text color" : "[0.212, 0.373, 0.569]",
+    "content" : "Antecedentes"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 65,
+    "page number" : 3,
+    "bounding box" : [ 85.104, 582.852, 533.809, 633.057 ],
+    "font" : "Roboto",
+    "font size" : 10.56,
+    "text color" : "[0.125, 0.129, 0.141]",
+    "content" : "Dentro del estatuto orgánico de gestión por procesos implementando en la UITEY la DGTIC tiene como atribución y responsabilidad controlar el cumplimiento de criterios de disponibilidad, seguridad, escalabilidad. La norma de control interno de Contraloría General del Estado manifiesta:"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 66,
+    "page number" : 3,
+    "bounding box" : [ 85.104, 553.75, 348.926, 565.75 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.141, 0.247, 0.376]",
+    "content" : "410-08 Desarrollo y adquisición de software aplicativo"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 67,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 489.492, 534.844, 539.667 ],
+    "font" : "Roboto",
+    "font size" : 10.56,
+    "text color" : "[0.125, 0.129, 0.141]",
+    "content" : "2. Adopción, mantenimiento y aplicación de políticas públicas y estándares internacionales para: codificación de software, nomenclaturas, interfaz de usuario, interoperabilidad, eficiencia de desempeño de sistemas, escalabilidad, validación contra requerimientos, planes de pruebas unitarias y de integración"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 68,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 375.952, 535.731, 476.547 ],
+    "font" : "Roboto",
+    "font size" : 10.56,
+    "text color" : "[0.125, 0.129, 0.141]",
+    "content" : "5. En los procesos de desarrollo, mantenimiento o adquisición de software aplicativo se considerarán: estándares de desarrollo, de documentación y de calidad, el diseño lógico y físico de las aplicaciones, la inclusión apropiada de controles de aplicación diseñados para prevenir, detectar y corregir errores e irregularidades de procesamiento, de modo que éste, sea exacto, completo, oportuno, aprobado y auditable. Se considerarán mecanismos de autorización, integridad de la información, control de acceso, respaldos, diseño e implementación de pistas de auditoría y requerimientos de seguridad. La especificación del diseño considerara las arquitecturas tecnológicas y de información definidas dentro de la organización."
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 69,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 344.21, 162.825, 357.17 ],
+    "heading level" : 2,
+    "font" : "Calibri",
+    "font size" : 12.96,
+    "text color" : "[0.212, 0.373, 0.569]",
+    "content" : "Procedimiento"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 70,
+    "level" : "8",
+    "page number" : 3,
+    "bounding box" : [ 85.104, 326.33, 435.118, 338.33 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 85,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 71,
+      "page number" : 3,
+      "bounding box" : [ 85.104, 326.33, 435.118, 338.33 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "1. Ingreso a plataforma sistema integrado de residencias universitarias",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 72,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 106.34, 294.237, 522.3, 320.45 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 77,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 73,
+      "page number" : 3,
+      "bounding box" : [ 106.34, 294.237, 522.3, 320.45 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "1.1. Ingreso al sistema integrado de gestión académica Ingresa al SIU, ingresa desde tu computadora o dispositivo móvil utilizando la versión",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 74,
+    "page number" : 3,
+    "bounding box" : [ 157.1, 280.197, 371.17, 293.14 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "más reciente del navegador de tu preferencia."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 75,
+    "page number" : 4,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile4.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 82,
+    "page number" : 4,
+    "bounding box" : [ 118.8, 574.21, 487.3, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile5.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 76,
+    "page number" : 4,
+    "bounding box" : [ 230.57, 549.83, 392.819, 560.382 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 1 Sistema de Gestión Académica"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 77,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 106.34, 267.41, 523.232, 537.43 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 72,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 78,
+      "page number" : 4,
+      "bounding box" : [ 106.34, 496.27, 523.232, 537.43 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "1.2. Ingreso de credenciales Ingresa tu correo electrónico y contraseña en los campos correspondientes y haz clic en el botón de ingreso para acceder al sistema.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 79,
+        "page number" : 4,
+        "bounding box" : [ 242.81, 306.45, 380.365, 317.002 ],
+        "font" : "Cambria-Italic",
+        "font size" : 9.0,
+        "text color" : "[0.122, 0.286, 0.49]",
+        "content" : "Ilustración 2 Ingreso de Credenciales"
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 80,
+      "page number" : 4,
+      "bounding box" : [ 106.34, 267.41, 428.096, 294.05 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "1.3. Pantalla principal del sistema integrado de gestión académica Una vez dentro, verás la pantalla principal de la plataforma.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 81,
+    "page number" : 4,
+    "bounding box" : [ 255.42, 317.02, 367.37, 487.07 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 83,
+    "page number" : 5,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile7.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 91,
+    "page number" : 5,
+    "bounding box" : [ 60.8, 532.46, 536.96, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile8.png"
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 84,
+    "page number" : 5,
+    "bounding box" : [ 248.45, 521.87, 375.118, 532.422 ],
+    "linked content id" : 91,
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 3 Página principal SIU"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 85,
+    "level" : "8",
+    "page number" : 5,
+    "bounding box" : [ 85.104, 479.59, 189.332, 509.35 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 70,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 86,
+      "page number" : 5,
+      "bounding box" : [ 85.104, 479.59, 189.332, 509.35 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2. M. Residencias 2.1. Operaciones",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 87,
+    "level" : "5",
+    "page number" : 5,
+    "bounding box" : [ 121.1, 111.14, 535.911, 473.71 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 98,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 88,
+      "page number" : 5,
+      "bounding box" : [ 121.1, 418.15, 522.976, 473.71 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.1.1. Módulo del menú desplegable En el menú del lado izquierdo, ubicamos el módulo de residencias y hacemos clic en dicho módulo. Se desplegará una lista de submódulos, donde buscaremos el submódulo de catálogos.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 89,
+        "page number" : 5,
+        "bounding box" : [ 244.25, 179.22, 379.222, 189.772 ],
+        "font" : "Cambria-Italic",
+        "font size" : 9.0,
+        "text color" : "[0.122, 0.286, 0.49]",
+        "content" : "Ilustración 4 Menú lateral izquierdo"
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 90,
+      "page number" : 5,
+      "bounding box" : [ 121.1, 111.14, 535.911, 166.82 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.1.2. Pantalla principal de Solicitud Residencia Dentro del componente de solicitud de residencia, verás dos partes: filtro de Residencias a la izquierda y listado de plazas disponibles a la derecha (aquí se te mostrará los departamentos y sus respectivas plazas disponibles).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 92,
+    "page number" : 5,
+    "bounding box" : [ 253.18, 189.88, 369.83, 408.97 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile9.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 96,
+    "page number" : 6,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile10.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 104,
+    "page number" : 6,
+    "bounding box" : [ 36.85, 529.56, 581.69, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile11.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 97,
+    "page number" : 6,
+    "bounding box" : [ 188.09, 518.87, 435.116, 529.422 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 5, componente de Solicitud a residencias universitarias"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 98,
+    "level" : "5",
+    "page number" : 6,
+    "bounding box" : [ 121.1, 479.83, 416.031, 506.35 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 87,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 99,
+      "page number" : 6,
+      "bounding box" : [ 121.1, 479.83, 416.031, 506.35 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.1.3. Reserva de plaza Si deseas reservar una plaza, da clic en el botón ‘Solicitar reserva’:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 105,
+    "page number" : 6,
+    "bounding box" : [ 66.625, 281.31, 519.875, 470.56 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile12.png"
+  }, {
+    "type" : "text block",
+    "id" : 108,
+    "page number" : 6,
+    "bounding box" : [ 438.575, 353.935, 507.925, 405.035 ],
+    "kids" : [ {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 111,
+      "page number" : 6,
+      "bounding box" : [ 435.24, 349.08, 510.961, 406.558 ],
+      "alt_source" : "missing",
+      "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile13.png"
+    }, {
+      "type" : "image",
+      "pdfua_tag" : "Figure",
+      "id" : 112,
+      "page number" : 6,
+      "bounding box" : [ 476.65, 364.91, 487.55, 375.81 ],
+      "alt_source" : "missing",
+      "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile14.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 100,
+    "page number" : 6,
+    "bounding box" : [ 247.25, 270.69, 376.021, 281.242 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 6 plazas por residencia"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H4",
+    "id" : 101,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 85.104, 232.554, 519.008, 260.692 ],
+    "heading level" : 4,
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0, 0.69, 0.314]",
+    "content" : "Nota: Considere que solo podrá visualizar plazas acordes a su grupo socioeconómico, género y disponibilidad de espacios."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 102,
+    "level" : "5",
+    "page number" : 6,
+    "bounding box" : [ 121.1, 173.675, 534.388, 213.38 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 115,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 103,
+      "page number" : 6,
+      "bounding box" : [ 121.1, 173.675, 534.388, 213.38 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.1.4. Confirmación de reserva de plaza. Al hacer clic en el botón solicitar reserva, se desplegará una ventana flotante que tendrá en su primera sección el detalle completo de la plaza a la cual seleccionó.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 113,
+    "page number" : 7,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile15.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 121,
+    "page number" : 7,
+    "bounding box" : [ 85.05, 547.71, 538.3, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile16.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 125,
+    "page number" : 7,
+    "bounding box" : [ 214.9, 602.11, 225.8, 613.01 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile17.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 114,
+    "page number" : 7,
+    "bounding box" : [ 223.97, 536.87, 399.476, 547.422 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 7 modal de sección de confirmación"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 115,
+    "level" : "5",
+    "page number" : 7,
+    "bounding box" : [ 121.1, 484.097, 535.043, 524.35 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 102,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 116,
+      "page number" : 7,
+      "bounding box" : [ 121.1, 484.097, 535.043, 524.35 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.1.5. Selección del tipo de pago. Al hacer clic en el botón ‘Continuar‘ se mostrará la siguiente sección para escoger el tipo de pago que realizará",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 122,
+    "page number" : 7,
+    "bounding box" : [ 85.05, 265.22, 538.3, 475.22 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile18.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 126,
+    "page number" : 7,
+    "bounding box" : [ 270.65, 335.97, 281.55, 346.87 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile19.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 117,
+    "page number" : 7,
+    "bounding box" : [ 262.73, 254.61, 360.649, 265.162 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 8 Tipo de pago"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 118,
+    "page number" : 7,
+    "bounding box" : [ 85.104, 216.474, 497.856, 244.582 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Nota: al seleccionar el método de pago se mostrar la última sección de la ventana flotante, a continuación de clic en el botón continuar"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 119,
+    "page number" : 7,
+    "bounding box" : [ 121.1, 185.9, 345.094, 197.9 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.141, 0.247, 0.376]",
+    "content" : "2.1.6. Aceptación de términos y condiciones."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 120,
+    "page number" : 7,
+    "bounding box" : [ 103.1, 143.847, 524.76, 184.63 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "En esta sección de la ventana flotante encontrará el ‘Reglamento de residencias para estudiantes’ en el cual deberá leer y aceptar haciendo clic en el check box. Posteriormente una vez acepte los términos y condiciones se mostrará el botón de ‘Solicitar’"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 127,
+    "page number" : 8,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile20.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 131,
+    "page number" : 8,
+    "bounding box" : [ 103.05, 547.11, 556.3, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile21.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 133,
+    "page number" : 8,
+    "bounding box" : [ 251.6, 614.11, 262.5, 625.01 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile22.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 128,
+    "page number" : 8,
+    "bounding box" : [ 217.85, 527.51, 405.542, 538.062 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 9 Aceptación de Términos y Solicitudes"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 129,
+    "page number" : 8,
+    "bounding box" : [ 103.1, 447.737, 527.566, 488.52 ],
+    "font" : "Cambria",
+    "font size" : 11.04,
+    "text color" : "[0.0]",
+    "content" : "Una vez complete su solicitud su solicitud a residencias quedará registrada y pasará a la bandeja de aprobación de solicitudes que será manejada por el departamento de Bienestar Universitario."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 132,
+    "page number" : 8,
+    "bounding box" : [ 103.05, 221.61, 556.3, 432.31 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile23.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 130,
+    "page number" : 8,
+    "bounding box" : [ 247.01, 201.9, 376.513, 212.452 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 10 Mensaje de solicitud"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 136,
+    "page number" : 9,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile24.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 137,
+    "page number" : 9,
+    "bounding box" : [ 106.34, 741.46, 232.244, 753.46 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.141, 0.247, 0.376]",
+    "content" : "2.2. Listado de solicitudes"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 144,
+    "page number" : 9,
+    "bounding box" : [ 251.68, 534.9, 371.68, 740.1 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile25.png"
+  }, {
+    "type" : "caption",
+    "pdfua_tag" : "Caption",
+    "id" : 138,
+    "page number" : 9,
+    "bounding box" : [ 234.41, 524.03, 388.868, 534.582 ],
+    "linked content id" : 144,
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 11 Menú listado de solicitudes"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 139,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 121.1, 166.82, 505.508, 495.55 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 140,
+      "page number" : 9,
+      "bounding box" : [ 121.1, 467.71, 435.986, 495.55 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.2.1. Módulo de listado de solicitudes Una vez dentro del módulo podrá ver sus solicitudes registradas,",
+      "kids" : [ {
+        "type" : "list",
+        "pdfua_tag" : "L",
+        "id" : 141,
+        "level" : "7",
+        "page number" : 9,
+        "bounding box" : [ 247.01, 238.86, 376.312, 249.412 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 1,
+        "next list id" : 153,
+        "list items" : [ {
+          "type" : "list item",
+          "pdfua_tag" : "LI",
+          "id" : 142,
+          "page number" : 9,
+          "bounding box" : [ 247.01, 238.86, 376.312, 249.412 ],
+          "font" : "Cambria-Italic",
+          "font size" : 9.0,
+          "text color" : "[0.122, 0.286, 0.49]",
+          "content" : "Ilustración 9 Listado de solicitudes",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 143,
+      "page number" : 9,
+      "bounding box" : [ 121.1, 166.82, 505.508, 210.38 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.2.2. Detalles de solicitud Para ver los detalles de sus solicitudes registradas, de clic en el menú lateral de acciones y ver solicitud",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 145,
+    "page number" : 9,
+    "bounding box" : [ 85.05, 249.52, 538.3, 458.37 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile26.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 146,
+    "page number" : 9,
+    "bounding box" : [ 121.05, 109.02, 574.3, 165.47 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile27.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 150,
+    "page number" : 9,
+    "bounding box" : [ 559.7, 109.12, 570.6, 120.02 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile28.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 152,
+    "page number" : 10,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile29.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 153,
+    "level" : "7",
+    "page number" : 10,
+    "bounding box" : [ 247.85, 745.34, 375.688, 755.892 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 141,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 154,
+      "page number" : 10,
+      "bounding box" : [ 247.85, 745.34, 375.688, 755.892 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 10 detalles de solicitud",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 155,
+    "page number" : 10,
+    "bounding box" : [ 121.1, 673.54, 529.688, 732.94 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "A continuación, los detalles de la solicitud seleccionada se desplegarán en un modal flotante. Este modal puede ser utilizado para dar seguimiento al estado actual de su solicitud (Ingresado, En revisión, Negada, Aprobada, Entrega/Recepción de Documentos, y Archivado)."
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 163,
+    "page number" : 10,
+    "bounding box" : [ 85.05, 455.03, 538.3, 664.13 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile30.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 156,
+    "page number" : 10,
+    "bounding box" : [ 219.89, 444.47, 403.607, 455.022 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 14 Ventana flotante, detalles solicitud"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 157,
+    "page number" : 10,
+    "bounding box" : [ 85.104, 392.184, 514.304, 434.472 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Nota: Si su solicitud se encuentra en fase de Entrega y Recepción de Documentos, se considera que su solicitud ha sido aprobada por lo cual usted puede hacer uso del espacio seleccionado."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 158,
+    "page number" : 10,
+    "bounding box" : [ 85.104, 318.144, 497.664, 387.77 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "2.3. Historial-Sanciones Dado de las sanciones generadas hacia el estudiante residente forman parte del reglamento de ‘Residencias Universitarias para Estudiantes’, y como uno de los 7 criterios de asignación para residencias; el sistema de residencias universitarias considera las sanciones generadas sobre el estudiante."
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 159,
+    "level" : "8",
+    "page number" : 10,
+    "bounding box" : [ 121.1, 285.89, 508.4, 313.73 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 169,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 160,
+      "page number" : 10,
+      "bounding box" : [ 121.1, 285.89, 508.4, 313.73 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.3.1. Historial Libre En caso de no registrar sanciones previas, el componente de la siguiente forma,",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 164,
+    "page number" : 10,
+    "bounding box" : [ 85.05, 127.98, 539.65, 276.58 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile31.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 161,
+    "level" : "9",
+    "page number" : 10,
+    "bounding box" : [ 242.81, 117.3, 380.62, 127.852 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 171,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 162,
+      "page number" : 10,
+      "bounding box" : [ 242.81, 117.3, 380.62, 127.852 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 15 Historial sin sanciones",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 168,
+    "page number" : 11,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile32.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 169,
+    "level" : "8",
+    "page number" : 11,
+    "bounding box" : [ 121.1, 679.42, 508.556, 722.98 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 159,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 170,
+      "page number" : 11,
+      "bounding box" : [ 121.1, 679.42, 508.556, 722.98 ],
+      "font" : "Calibri",
+      "font size" : 12.0,
+      "text color" : "[0.141, 0.247, 0.376]",
+      "content" : "2.3.2. Historial con sanciones En caso de que su historial cuente con sanciones registradas estas se mostrarán como se muestra a continuación.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 177,
+    "page number" : 11,
+    "bounding box" : [ 85.05, 500.59, 538.3, 670.04 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile33.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 171,
+    "level" : "9",
+    "page number" : 11,
+    "bounding box" : [ 241.49, 489.95, 381.955, 500.502 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 161,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 172,
+      "page number" : 11,
+      "bounding box" : [ 241.49, 489.95, 381.955, 500.502 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 16 Historial con sanciones",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 173,
+    "page number" : 11,
+    "bounding box" : [ 85.104, 436.27, 533.786, 477.55 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Nota: considere que por cada sanción se le restarán el valor asociado a cada una de estas sanciones a su puntaje inicial. Considere que una nota muy cercana a 0 (Cero), impedirá que usted pueda crear solicitudes a residencias."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 174,
+    "page number" : 11,
+    "bounding box" : [ 106.34, 388.01, 527.144, 431.59 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "2.4. Solicitud de reubicación Si bajo cualquier circunstancia usted necesita solicitar reubicación de residencia, en el menú lateral consta de un formulario de solicitud de reubicación"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 178,
+    "page number" : 11,
+    "bounding box" : [ 275.38, 191.02, 383.98, 386.62 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile34.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 175,
+    "level" : "9",
+    "page number" : 11,
+    "bounding box" : [ 238.97, 171.42, 384.433, 181.972 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 184,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 176,
+      "page number" : 11,
+      "bounding box" : [ 238.97, 171.42, 384.433, 181.972 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 17 Solicitud de Reubicación",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 182,
+    "page number" : 12,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile35.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 183,
+    "page number" : 12,
+    "bounding box" : [ 121.1, 709.9, 526.424, 753.46 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "A continuación, se mostrará un formulario de solicitud en el cual la primera sección escogerá una la plaza de su selección (Considere que se mostrarán solo las plazas correspondientes a su grupo socioeconómico),"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 191,
+    "page number" : 12,
+    "bounding box" : [ 85.05, 562.74, 538.3, 700.49 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile36.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 194,
+    "page number" : 12,
+    "bounding box" : [ 488.65, 579.04, 499.55, 589.94 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile37.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 184,
+    "level" : "9",
+    "page number" : 12,
+    "bounding box" : [ 245.09, 388.53, 378.367, 562.422 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 175,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 185,
+      "page number" : 12,
+      "bounding box" : [ 245.09, 551.87, 378.367, 562.422 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 18 Exportación de datos",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 186,
+        "page number" : 12,
+        "bounding box" : [ 85.104, 527.47, 436.284, 539.47 ],
+        "font" : "Calibri",
+        "font size" : 12.0,
+        "text color" : "[0.0]",
+        "content" : "Una vez seleccione la plaza de su interés, usted escogerá el tipo de pago"
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 187,
+      "page number" : 12,
+      "bounding box" : [ 248.93, 388.53, 374.446, 399.082 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 19 selección tipo pago",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 192,
+    "page number" : 12,
+    "bounding box" : [ 85.05, 399.09, 538.3, 527.29 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile38.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 195,
+    "page number" : 12,
+    "bounding box" : [ 299.0, 421.09, 309.9, 431.99 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile39.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 188,
+    "page number" : 12,
+    "bounding box" : [ 85.104, 350.304, 522.78, 378.412 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Una vez seleccionado el tipo de pago, acepte los términos y condiciones. Y de clic en el botón Solicitar"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 193,
+    "page number" : 12,
+    "bounding box" : [ 85.05, 202.78, 538.3, 336.33 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile40.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 196,
+    "page number" : 12,
+    "bounding box" : [ 217.65, 210.43, 228.55, 221.33 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile41.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 189,
+    "page number" : 12,
+    "bounding box" : [ 197.33, 192.18, 426.083, 202.732 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 18 aceptación de términos, condiciones y solicitud"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 190,
+    "page number" : 12,
+    "bounding box" : [ 103.1, 167.78, 284.246, 179.78 ],
+    "font" : "Calibri",
+    "font size" : 12.0,
+    "text color" : "[0.141, 0.247, 0.376]",
+    "content" : "2.5 Solicitud de renuncia a residencia"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 200,
+    "page number" : 13,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile42.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 208,
+    "page number" : 13,
+    "bounding box" : [ 259.18, 581.11, 364.17, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile43.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 201,
+    "page number" : 13,
+    "bounding box" : [ 250.61, 555.83, 372.823, 566.382 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 19 solicitud-renuncia"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 202,
+    "page number" : 13,
+    "bounding box" : [ 85.104, 517.604, 534.55, 545.712 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Una vez dentro del componente de ‘Solicitud-Renuncia’, usted visualizará los detalles de su residencia actual, así como los detalles de la solicitud de renuncia"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 209,
+    "page number" : 13,
+    "bounding box" : [ 85.05, 333.95, 538.3, 517.65 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile44.png"
+  }, {
+    "type" : "list",
+    "pdfua_tag" : "L",
+    "id" : 203,
+    "level" : "10",
+    "page number" : 13,
+    "bounding box" : [ 235.13, 212.58, 388.303, 333.922 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 204,
+      "page number" : 13,
+      "bounding box" : [ 235.13, 323.37, 388.303, 333.922 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 20 detalles solicitud-renuncia",
+      "kids" : [ {
+        "type" : "paragraph",
+        "pdfua_tag" : "P",
+        "id" : 205,
+        "page number" : 13,
+        "bounding box" : [ 85.104, 285.144, 491.75, 313.372 ],
+        "font" : "Cambria",
+        "font size" : 12.0,
+        "text color" : "[0.0]",
+        "content" : "Una vez dentro escoja los el motivo principal por el cual solicita la renuncia a su residencia actual."
+      } ]
+    }, {
+      "type" : "list item",
+      "pdfua_tag" : "LI",
+      "id" : 206,
+      "page number" : 13,
+      "bounding box" : [ 242.21, 212.58, 381.226, 223.132 ],
+      "font" : "Cambria-Italic",
+      "font size" : 9.0,
+      "text color" : "[0.122, 0.286, 0.49]",
+      "content" : "Ilustración 21 tipo solicitud-renuncia",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 210,
+    "page number" : 13,
+    "bounding box" : [ 85.05, 223.17, 538.3, 285.27 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile45.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 211,
+    "page number" : 13,
+    "bounding box" : [ 514.3, 263.07, 525.2, 273.97 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile46.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 207,
+    "page number" : 13,
+    "bounding box" : [ 85.104, 160.314, 492.244, 188.422 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Con una descripción breve detalle el motivo de su renuncia y de clic en el botón continuar"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 214,
+    "page number" : 14,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile47.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 220,
+    "page number" : 14,
+    "bounding box" : [ 85.05, 669.26, 538.3, 755.91 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile48.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 215,
+    "page number" : 14,
+    "bounding box" : [ 215.69, 658.34, 407.863, 668.892 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 22 detalles puntuales solicitud-renuncia"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 216,
+    "page number" : 14,
+    "bounding box" : [ 85.104, 606.194, 529.356, 634.302 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Una vez detallado el motivo de renuncia de acepte los términos de renuncia y de clic en el botón ‘Solicitar’"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 221,
+    "page number" : 14,
+    "bounding box" : [ 85.05, 471.39, 538.3, 592.09 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile49.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 217,
+    "page number" : 14,
+    "bounding box" : [ 211.37, 460.79, 412.063, 471.342 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 22 aceptación términos solicitud-renuncia"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 218,
+    "page number" : 14,
+    "bounding box" : [ 85.104, 408.504, 523.9, 436.752 ],
+    "font" : "Cambria",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Una vez esto, se le mostrará el siguiente mensaje. (Considere que puede realizar como máximo una solicitud de renuncia por periodo)"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 222,
+    "page number" : 14,
+    "bounding box" : [ 85.05, 296.86, 538.3, 394.56 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile50.png"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 219,
+    "page number" : 14,
+    "bounding box" : [ 224.81, 286.29, 398.623, 296.842 ],
+    "font" : "Cambria-Italic",
+    "font size" : 9.0,
+    "text color" : "[0.122, 0.286, 0.49]",
+    "content" : "Ilustración 20 confirmación solicitud-renuncia"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 225,
+    "page number" : 15,
+    "bounding box" : [ -11.0, -5.34, 594.49, 846.36 ],
+    "alt_source" : "missing",
+    "source" : "Manual de usuario(Estudiante)-1 (1)_images/imageFile51.png"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 226,
+    "level" : "11",
+    "page number" : 15,
+    "bounding box" : [ 85.104, 490.03, 510.34, 671.5 ],
+    "number of rows" : 3,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 227,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 228,
+        "page number" : 15,
+        "bounding box" : [ 85.584, 617.977, 299.112, 671.02 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 229,
+          "page number" : 15,
+          "bounding box" : [ 90.744, 618.26, 288.096, 671.052 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Elaborado por: Cristhian A. Andrade Loor Tesista Dirección General de Tecnologías de la Información y Comunicaciones"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 230,
+        "page number" : 15,
+        "bounding box" : [ 299.112, 617.977, 509.855, 671.02 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 231,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 232,
+        "page number" : 15,
+        "bounding box" : [ 85.584, 554.11, 299.112, 617.977 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 233,
+          "page number" : 15,
+          "bounding box" : [ 90.744, 554.39, 288.096, 617.772 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Revisado por: Ing. Diego Rea, Msc. Técnico de tecnologías de Información y Comunicación Dirección General de Tecnologías de la Información y Comunicaciones"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 234,
+        "page number" : 15,
+        "bounding box" : [ 299.112, 554.11, 509.855, 617.977 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 235,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 236,
+        "page number" : 15,
+        "bounding box" : [ 85.584, 490.51, 299.112, 554.11 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 237,
+          "page number" : 15,
+          "bounding box" : [ 90.744, 490.67, 289.946, 553.902 ],
+          "font" : "Cambria",
+          "font size" : 9.0,
+          "text color" : "[0.212, 0.376, 0.569]",
+          "content" : "Aprobado por: Ing. Frank Villarreal, Msc. Director General de Tecnologías de la Información y Comunicaciones Dirección General de Tecnologías de la Información y Comunicaciones"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 238,
+        "page number" : 15,
+        "bounding box" : [ 299.112, 490.51, 509.855, 554.11 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  } ]
+}
