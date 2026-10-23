@@ -1,145 +1,238 @@
-# ñaño tech — Asistente Institucional de Universidad Yachay Tech
+# ñaño tech
 
-**ñaño tech** es el asistente virtual institucional de la **Universidad de Investigación de Tecnología Experimental Yachay Tech** (Urcuquí, Imbabura, Ecuador). Diseñado para orientar a la comunidad universitaria en trámites académicos, servicios residenciales, ubicación de aulas/instalaciones y representación estudiantil, operando con soporte multilingüe (**Español**, **Kichwa** e **Inglés**) bajo una arquitectura determinista orientada a la seguridad, la precisión factual y la optimización extrema de costos.
+> Asistente virtual para la Universidad Yachay Tech que orienta en trámites de matrícula, residencias universitarias y ubicación de instalaciones en español, kichwa e inglés.
 
 ---
 
-## Arquitectura del Sistema
+## Tabla de Contenidos
 
-El sistema está compuesto por los siguientes módulos desacoplados:
+- [Descripción General](#descripción-general)
+- [Arquitectura y Tecnologías](#arquitectura-y-tecnologías)
+- [Requisitos Previos](#requisitos-previos)
+- [Instalación y Configuración](#instalación-y-configuración)
+- [Uso Rápido](#uso-rápido)
+- [Variables de Entorno](#variables-de-entorno)
+- [Pruebas](#pruebas)
+- [Licencia](#licencia)
 
-```
+---
+
+## Descripción General
+
+El sistema atiende dudas sobre los procesos normativos y la vida universitaria en el campus de la Universidad Yachay Tech (Urcuquí, Ecuador). Resuelve consultas frecuentes sobre el sistema académico MiYT, el sistema de residencias y la convivencia institucional mediante un esquema mixto de reglas locales en Python y un modelo de lenguaje con contexto estructurado en XML.
+
+### Funcionalidades Principales
+
+- **Los 6 Trámites Oficiales:** Base de datos canónica estructurada para los seis trámites institucionales:
+  1. `ficha_socioeconomica`: Registro de Ficha Socioeconómica.
+  2. `matriculacion_miyt`: Matriculación en el Sistema MiYT.
+  3. `visualizacion_horarios`: Visualización del Horario de Clases.
+  4. `solicitud_residencia`: Solicitud de Plaza de Residencia Universitaria.
+  5. `renovacion_residencia`: Renovación de Plaza de Residencia Universitaria.
+  6. `renuncia_residencia`: Solicitud de Renuncia a Residencia.
+- **Soporte Trilingüe:** Respuestas en español, inglés y kichwa unificado. Las traducciones al kichwa fueron elaboradas con asistencia de una IA que utilizó el diccionario oficial de la ALKI. No cuentan con validación formal de la Academia.
+- **Protocolo de Seguridad en Crisis:** Detección de frases de autolesión antes de cualquier llamada al modelo, deteniendo el flujo para entregar los contactos de emergencia: 911, línea 171 (opción salud mental) del Ministerio de Salud Pública y Bienestar Estudiantil (`psicologia@yachaytech.edu.ec`, `bienestarestudiantil@yachaytech.edu.ec`).
+- **Cooldown de Seguridad Post-Crisis:** Si una sesión activa el protocolo de autolesión, los dos turnos siguientes permanecen en un periodo de enfriamiento que repite el mensaje de auxilio para salvaguardar al usuario antes de permitir preguntas regulares.
+- **Límite de Conversación:** La sesión se corta de forma estricta al llegar a seis turnos de usuario para evitar bucles o consumo innecesario de cuota.
+- **Moderación de Lenguaje en Containers:** Regla obligatoria en los datos del campus que prohíbe generar apodos coloquiales históricos basados en orígenes étnicos o raciales, empleando exclusivamente los nombres oficiales "Containers" o "Zona de Comidas El Colibrí".
+
+---
+
+## Arquitectura y Tecnologías
+
+El proyecto opera con componentes estándar en Python y el SDK oficial de Anthropic:
+
+- **Lenguaje y Entorno:** Python 3.10+
+- **Modelo de Lenguaje:** `claude-haiku-5-5` (vía API de Anthropic con Prompt Caching efímero)
+- **Servidor Web:** `http.server.ThreadingHTTPServer` nativo con `threading.Lock` para sincronización
+- **Estructura de Datos:** Archivos JSON en UTF-8 dentro de `asistente/data/`
+
+### Componentes y Fuentes de Datos
+
+```text
 yosw/
-├── server.py                  # Servidor HTTP multihilo y API REST institucional
-├── requirements.txt           # Dependencias del proyecto
-├── .env.example               # Plantilla de variables de entorno
+├── server.py               # Servidor HTTP y rutas de la API REST
+├── requirements.txt        # Dependencias (anthropic, python-dotenv)
+├── .env.example            # Plantilla de credenciales
 ├── html/
-│   └── index.html             # Portal web de Yachay Tech con widget de chat incrustado
+│   └── index.html          # Interfaz de usuario con chat web
 └── asistente/
-    ├── server.py              # Wrapper de conveniencia para ejecución modular
-    ├── requirements.txt       # Requisitos sincronizados
     ├── core/
-    │   ├── motor_ia.py        # Motor cognitivo, cliente Claude, enrutamiento y guardrails
-    │   ├── assembler.py       # Ensamblador determinista de slots (costo $0.00)
-    │   ├── evaluacion.py      # Suite de benchmark y métricas de evaluación automatizadas
-    │   └── build_prompt.py    # Compilador de base de conocimiento XML para prompt caching
+    │   ├── motor_ia.py     # Lógica de sesión, filtros de crisis y llamadas al modelo
+    │   ├── assembler.py    # Formateo de plantillas fijas de trámites y lugares
+    │   ├── build_prompt.py # Compilador del XML con los reglamentos
+    │   └── evaluacion.py   # Arnés de pruebas sobre las 62 preguntas del benchmark
     └── data/
-        ├── lugares.json       # Ubicaciones, aulas, laboratorios y normas de convivencia
-        ├── tramites.json      # Trámites académicos, requisitos, plazos y pasos
-        ├── representacion.json# Representantes estudiantiles oficiales (FEYT y CSU)
-        ├── protocolo_crisis.json # Protocolo de contención de crisis y líneas de auxilio
-        └── Untitled.txt       # Preguntas de benchmark para evaluación institucional
+        ├── tramites.json
+        ├── lugares.json
+        ├── protocolo_crisis.json
+        ├── INSTRUCTIVO manual de usuario DE RESIDENCIAS.json
+        ├── Instructivo de Matrícula 2026SEM02.json
+        ├── lineamientos de residencias.json
+        ├── manual_usuario_estudiante.json
+        ├── Visualización Horarios MiYT.json
+        └── Untitled.txt
 ```
 
-### Componentes Principales:
-1. **`asistente/core/motor_ia.py`**:
-   - Orquesta el ciclo de vida de la consulta, la detección de idiomas y la gestión de la sesión en memoria.
-   - Integra el cliente oficial de Anthropic utilizando el modelo `claude-3-5-haiku-20241022`.
-   - Implementa **Prompt Caching** (`cache_control: {"type": "ephemeral"}`) sobre la base institucional XML para reducir el costo de tokens de entrada hasta en un 90%.
-   - Registra tokens de entrada (normales y cacheados), tokens de salida y costos acumulados en USD por sesión.
-2. **`asistente/core/assembler.py`**:
-   - Ensamblador determinista de plantillas fijas basadas en slots. Para consultas de trámites, lugares y representación estudiantil, recupera los datos directamente de los JSON y los formatea sin invocar al LLM (costo $0.00 USD, 0 tokens, 0 alucinación).
-   - Incluye traducciones oficiales al Kichwa unificado (validadas con respaldo de la Academia de la Lengua Kichwa - ALKI).
-3. **`server.py`**:
-   - Servidor HTTP ligero basado en `http.server.ThreadingHTTPServer`.
-   - Sirve los recursos estáticos del portal y expone los endpoints de la API:
-     - `POST /api/chat`: Recepción de preguntas en formato JSON (`{"pregunta": "...", "idioma": "es|en|kichwa"}`).
-     - `POST /api/reset`: Reinicio del historial de conversación y contadores de la sesión.
-     - `GET /api/status`: Diagnóstico de salud, modelo activo, tokens y costo acumulado.
-4. **`html/index.html`**:
-   - Interfaz web interactiva del portal institucional con el componente flotante de chat.
-   - Contiene el avatar del bot incrustado en Base64 (completamente autónomo, sin dependencias externas de imágenes).
-   - Selector dinámico de idioma de la interfaz (**ES**, **EN**, **Kichwa**) y diseño responsivo accesible.
+### Flujo de Ejecución y Costes
+
+El flujo se divide entre filtros previos a la inferencia y sustituciones posteriores a la respuesta del modelo:
+
+1. **Pre-inferencia (Coste $0.00 USD, 0 tokens):**
+   - **Riesgo de autolesión:** Si el mensaje coincide con frases clave en español o las 27 frases completas en kichwa (ej. `wañunayawan`, `chukririsha nini`), Python devuelve directamente el mensaje de emergencia y activa el cooldown.
+   - **Cooldown activo:** Si ocurrieron menos de dos turnos desde una alerta de autolesión, repite el mensaje de emergencia.
+   - **Límite de turnos:** Si el usuario alcanza seis mensajes, devuelve el mensaje de fin de conversación.
+2. **Llamada a la API de Anthropic:**
+   - La consulta se envía al modelo junto con el historial y la base institucional en XML marcada para caché.
+   - Si la consulta encaja con un trámite o lugar exacto, el modelo emite un identificador de slot (por ejemplo `[SLOT_ES:tramite:renuncia_residencia]`). Si es ajena a la universidad, emite `[FUERA_DE_DOMINIO]`.
+   - **Coste de la llamada:** Esta inferencia sí consume tokens de entrada y salida, generando un coste medido en las pruebas de entre $0.00023 y $0.00055 USD por consulta.
+3. **Post-inferencia (Ensamblado en Python):**
+   - Python detecta la etiqueta de slot en la respuesta devuelta por el modelo y la reemplaza por el texto formateado desde `assembler.py` usando los datos de `tramites.json` o `lugares.json`.
+   - Si detecta `[FUERA_DE_DOMINIO]`, reemplaza el texto con el mensaje institucional de derivación hacia `soporteacademico@yachaytech.edu.ec` o `vidacomunitaria@yachaytech.edu.ec`.
 
 ---
 
-## Flujo de Prioridad y Enrutamiento
+## Requisitos Previos
 
-Cada mensaje enviado al asistente atraviesa una tubería estricta de 7 niveles de prioridad:
-
-```mermaid
-flowchart TD
-    Inicio[Pregunta del usuario] --> Nivel1{1. ¿Crisis / Autolesión?}
-    Nivel1 -- Sí --> R_Crisis[Protocolo de Crisis Fijo ($0.00)]
-    Nivel1 -- No --> Nivel2{2. ¿Límite >= 6 turnos?}
-    Nivel2 -- Sí --> R_Limite[Mensaje de Límite de Sesión ($0.00)]
-    Nivel2 -- No --> Nivel3{3. ¿Slot Kichwa?}
-    Nivel3 -- Sí --> R_SlotK[Assembler Kichwa Validado ($0.00)]
-    Nivel3 -- No --> Nivel4{4. ¿Slot Inglés?}
-    Nivel4 -- Sí --> R_SlotEN[Assembler Inglés ($0.00)]
-    Nivel4 -- No --> Nivel5{5. ¿Slot Español?}
-    Nivel5 -- Sí --> R_SlotES[Assembler Español ($0.00)]
-    Nivel5 -- No --> Nivel6{6. ¿Fuera de Dominio?}
-    Nivel6 -- Sí --> R_Fuera[Mensaje Fuera de Dominio Oficial]
-    Nivel6 -- No --> Nivel7[7. Motor Cognitivo Claude 3.5 Haiku + Prompt Caching]
-```
-
-1. **Crisis (`protocolo_crisis.json`)**: Detección determinista de autolesión, ideación suicida o riesgos a terceros. Interrumpe el flujo de inmediato y devuelve teléfonos de emergencia (171, 911, bienestar estudiantil) con costo $0.00 USD.
-2. **Límite de sesión**: Tras 6 turnos de usuario, se fuerza el cierre de la conversación para prevenir bucles y costos descontrolados.
-3. **SLOT_KICHWA**: Ensamblado directo de datos traducidos al Kichwa si la consulta es en Kichwa o el selector está en Kichwa.
-4. **SLOT_EN**: Ensamblado directo de trámites o lugares en inglés si la consulta está en inglés.
-5. **SLOT_ES**: Ensamblado directo en español para los 6 trámites institucionales, lugares y representantes estudiantiles.
-6. **FUERA_DE_DOMINIO**: Detección de consultas ajenas a Yachay Tech (derivación oficial a canales de soporte sin alucinaciones).
-7. **Texto libre (LLM)**: Consulta a Claude 3.5 Haiku con el system prompt en caché para resolver dudas complejas sobre reglamentos, residencias y procesos de matrícula.
+- Python `>= 3.10`
+- Gestor de paquetes `pip`
+- Clave de API de Anthropic con acceso al modelo `claude-haiku-5-5`
+- Navegador web moderno
 
 ---
 
-## Configuración del Entorno
+## Instalación y Configuración
 
-### 1. Clonar el repositorio y preparar el entorno
-```bash
-git clone <URL_DEL_REPOSITORIO>
-cd yosw
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/claudioludena/yosw.git
+   cd yosw
+   ```
 
-### 2. Configurar la clave de la API de Anthropic
-Copia la plantilla de variables de entorno y agrega tu API key:
-```bash
-cp .env.example asistente/.env
-```
-Edita `asistente/.env` con tu editor preferido:
-```env
-ANTHROPIC_API_KEY=sk-ant-api03-...
-```
+2. **Crear y activar el entorno virtual:**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
-> **Seguridad:** Los archivos `.env` y `asistente/.env` están estrictamente ignorados por Git y **nunca** deben subirse al repositorio.
+3. **Instalar dependencias:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Configurar el archivo de entorno:**
+   ```bash
+   cp .env.example asistente/.env
+   ```
+   Edita `asistente/.env` y define tu clave:
+   ```env
+   ANTHROPIC_API_KEY=sk-ant-api03-tu-clave-aqui
+   ```
 
 ---
 
-## Ejecución del Servidor
+## Uso Rápido
 
-Para iniciar el servidor web y la API REST:
+### Iniciar el Servidor
+
+Desde la raíz del repositorio, ejecuta:
 ```bash
 python3 server.py
 ```
 
-El servidor quedará disponible en:
-- **Interfaz Web:** [http://localhost:8000](http://localhost:8000)
-- **API Chat:** `POST http://localhost:8000/api/chat`
-- **Estado y Métricas:** `GET http://localhost:8000/api/status`
-- **Reinicio de Sesión:** `POST http://localhost:8000/api/reset`
+La consola mostrará el estado del servicio:
+```text
+=================================================================
+🤖 SERVIDOR WEB Y API — 'ÑAÑO TECH' YACHAY TECH
+=================================================================
+• URL Local:        http://localhost:8000
+• API Chat:         POST http://localhost:8000/api/chat
+• API Reset:        POST http://localhost:8000/api/reset
+• API Health:       GET  http://localhost:8000/api/status
+• Frontend HTML:    .../html/index.html
+• Modelo activo:    claude-haiku-5-5
+=================================================================
+```
+
+Abre `http://localhost:8000` en tu navegador para interactuar con la interfaz del chat.
+
+### Consultar la API REST
+
+**Petición (`POST /api/chat`):**
+```bash
+curl -X POST http://localhost:8000/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"pregunta": "¿Cómo solicito la renuncia a la residencia?", "idioma": "es"}'
+```
+
+**Respuesta devuelta:**
+```json
+{
+  "ok": true,
+  "respuesta": "## 📋 Solicitud de Renuncia a Residencia\n\n🎯 **Objetivo:** Formalizar la renuncia a una plaza de residencia universitaria previamente asignada.\n\n💻 **Plataforma:** SIU - Módulo de Residencias\n\n📋 **Requisitos y Documentos:**\n- Ser residente activo con plaza asignada\n- Presentar la renuncia antes de efectuar el pago del periodo (no procede devolución de valores ya cancelados)\n\n📌 **Guía Paso a Paso:**\nPaso 1: Ingresar al componente 'Solicitud-Renuncia' dentro del Módulo de Residencias en el SIU...\n\n📞 **Soporte y Plazos:**\n- Correo de soporte: vidacomunitaria@yachaytech.edu.ec\n- Plazos: Debe presentarse antes de efectuar el pago del periodo correspondiente; máximo una renuncia por periodo académico.\n\n📜 **Fuente Oficial:** Manual del Sistema Integrado de Residencias Universitarias (SIU V2.0); Lineamientos de Residencias 2026SEM02, numeral 8",
+  "fuera_de_dominio": false,
+  "costo_llamada_usd": 0.00068798,
+  "costo_acumulado_usd": 0.013366,
+  "uso": {
+    "input_tokens": 750,
+    "output_tokens": 645,
+    "cache_read_input_tokens": 29048,
+    "cache_creation_input_tokens": 0
+  }
+}
+```
+
+**Reiniciar la sesión activa (`POST /api/reset`):**
+```bash
+curl -X POST http://localhost:8000/api/reset
+```
+
+**Consultar estado del servicio (`GET /api/status`):**
+```bash
+curl http://localhost:8000/api/status
+```
 
 ---
 
-## Ejecución del Benchmark y Evaluación
+## Variables de Entorno
 
-El módulo `asistente/core/evaluacion.py` permite evaluar de forma automatizada las 62 preguntas de prueba institucionales:
+El archivo `asistente/.env` define las opciones de configuración leídas por `os.getenv` en `motor_ia.py`:
+
+| Variable | Requerida | Valor por Defecto | Descripción |
+| :--- | :---: | :---: | :--- |
+| `ANTHROPIC_API_KEY` | Sí | Ninguno | Clave secreta para autenticar contra la API de Anthropic |
+| `ANTHROPIC_MODEL` | No | `claude-haiku-5-5` | Identificador del modelo pasado al cliente de inferencia |
+
+---
+
+## Pruebas
+
+El script `asistente/core/evaluacion.py` ejecuta una suite automatizada sobre las 62 preguntas institucionales registradas en `asistente/data/Untitled.txt`:
 
 ```bash
 python3 asistente/core/evaluacion.py
 ```
-Este proceso:
-- Genera un reporte detallado con tiempos de respuesta, tokens consumidos, costo exacto en USD y precisión de recuperación.
-- Exporta automáticamente los resultados a un archivo CSV en el directorio `asistente/outputs/resultados_<timestamp>.csv` (el directorio se crea automáticamente si no existe y está ignorado por Git).
+
+El script evalúa:
+- Latencia de respuesta en segundos por pregunta.
+- Tokens de entrada, tokens leídos de caché y tokens de salida.
+- Coste acumulado y por llamada en dólares estadounidenses.
+- Detección de casos fuera de dominio y exactitud factual de las respuestas.
+
+Los resultados se guardan en `asistente/outputs/resultados_<timestamp>.csv`.
 
 ---
 
 ## Limitaciones Conocidas
 
-1. **Mensaje de límite de sesión en Kichwa:**
-   - Cuando una conversación en Kichwa alcanza el límite incondicional de 6 turnos, el sistema entrega el mensaje de límite de sesión en **Español**, debido a que la traducción oficial y validada por hablante nativo para este texto de cierre específico se encuentra actualmente pendiente.
-2. **Restricción de dominio:**
-   - El asistente no responde preguntas de cultura general, tareas externas o temas no relacionados con la Universidad Yachay Tech; toda consulta fuera del alcance institucional es derivada inmediatamente a `soporteacademico@yachaytech.edu.ec` o `vidacomunitaria@yachaytech.edu.ec`.
+- **Mensaje de límite de emergencia:** Si el usuario llega al turno 6 después de un episodio de crisis, el mensaje de cierre de emergencia también se entrega en español, incluso en Kichwa.
+- **Detección de crisis:** Compara frases completas (listas en español, inglés y 27 frases en Kichwa). Es una salvaguarda básica, no una cobertura clínica exhaustiva.
+- **Mensaje de fin de sesión estándar en kichwa:** Al alcanzarse el límite de seis turnos de conversación regular en Kichwa, el mensaje de cierre se entrega temporalmente en español mientras se obtiene su traducción.
+- **Traducciones al kichwa:** Las traducciones al kichwa (incluidos los mensajes de crisis) no han sido validadas formalmente por la ALKI.
+- **Historial en memoria:** Las conversaciones residen en la memoria RAM del proceso `server.py`; reiniciar el servidor restablece todas las sesiones a cero.
+
+---
+
+## Licencia
+
+Software de uso institucional desarrollado para la **Universidad de Investigación de Tecnología Experimental Yachay Tech**. Todos los derechos reservados.
