@@ -1,0 +1,24 @@
+# Environment variables & API keys
+.env
+*.env
+.env.*
+asistente/.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Outputs, archives & logs
+outputs/
+*.log
+*.webarchive
+jsons/
+traducciones.json
+
