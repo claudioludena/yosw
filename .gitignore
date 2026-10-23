@@ -2,6 +2,7 @@
 .env
 *.env
 .env.*
+!.env.example
 asistente/.env
 
 # macOS
@@ -21,4 +22,9 @@ outputs/
 *.webarchive
 jsons/
 traducciones.json
+
+# Symlinks & static binary assets
+/data
+html/*.png
+
 
