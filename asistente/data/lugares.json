@@ -144,12 +144,12 @@
       "clinic",
       "hampi wasi"
     ],
-    "referencia_espacial": "Sector perimetral comercial de servicios, contiguo a Krispan.",
-    "ubicacion_en": "Commercial services sector, next to Krispan.",
-    "ruta_en": "Head to the services area; it is located right beside Krispan.",
+    "referencia_espacial": "Sector comercial de servicios, cerca de los bloques residenciales (donde anteriormente quedaba Krispan).",
+    "ubicacion_en": "Commercial services sector, near the residential blocks (where Krispan was previously located).",
+    "ruta_en": "Head to the services area near the blocks, where Krispan used to be.",
     "descripcion_en": "General medical care, outpatient emergencies, nursing services, and validation of medical rest certificates.",
     "descripcion_kichwa": "Sapsi hampiy, utkari hampiykuna, hampikrunapa yanapay, samana hampi kakwillaykunata alliniypash.",
-    "ubicacion_kichwa": "Yanapaykunapa mintalay muyuntin kuskapi, Krispan kuchullapi."
+    "ubicacion_kichwa": "Kawsanawasi hatun wasikunapa (bloques) kuchullapi, ñawpa Krispan kashka kuskapi."
   },
   {
     "id": "krispan",
@@ -170,12 +170,12 @@
       "grocery store",
       "convenience store"
     ],
-    "referencia_espacial": "Sector comercial de servicios, ubicado junto al Centro de Salud Tipo A.",
-    "ubicacion_en": "Services sector, next to the Health Center.",
-    "ruta_en": "Head to the services area, right next to the Health Center.",
+    "referencia_espacial": "Ubicado al lado del edificio / Hall Senescyt.",
+    "ubicacion_en": "Located next to the Senescyt building / Hall Senescyt.",
+    "ruta_en": "Head towards Senescyt; Krispan is located right beside the Senescyt building.",
     "descripcion_en": "Minimarket selling groceries, snacks, and everyday essentials.",
     "descripcion_kichwa": "Uchilla katunawasi, mikuykunata, chakruwasi imaykunata, kukayukunata, mutsurik imaykunatapash katuna kuska.",
-    "ubicacion_kichwa": "Yanapaykunapa mintalay kuskapi, Tipo A Hampiwasipa kuchullapi kuskayashka."
+    "ubicacion_kichwa": "Senescyt wasipa kuchullapi kuskayashka."
   },
   {
     "id": "containers",
